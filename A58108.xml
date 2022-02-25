@@ -1,0 +1,1098 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the Company of Grocers from their original : together with their case and condition (in their present circumstances) truly stated : as also how their revenue is settled for payment of their charities, and provision made for the well-governing their members and mystery, to preserve a succession in their society : designed for information of all, and benefit of the members, and for satisfaction and encouragement of their friends and benefactors.</title>
+            <author>Ravenhill, W. L. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58108</idno>
+            <idno type="STC">Wing R325</idno>
+            <idno type="STC">ESTC R32274</idno>
+            <idno type="EEBO-CITATION">12611161</idno>
+            <idno type="OCLC">ocm 12611161</idno>
+            <idno type="VID">64386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1534:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the Company of Grocers from their original : together with their case and condition (in their present circumstances) truly stated : as also how their revenue is settled for payment of their charities, and provision made for the well-governing their members and mystery, to preserve a succession in their society : designed for information of all, and benefit of the members, and for satisfaction and encouragement of their friends and benefactors.</title>
+                  <author>Ravenhill, W. L. D.</author>
+               </titleStmt>
+               <extent>[32], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Eliz. Holt for the Company of Grocers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXX1X [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle dedicatory" signed: William Ravenhill, clerk of the Company of Grocers.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Grocers.</term>
+               <term>Guilds --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64386:1"/>
+            <pb facs="tcp:64386:1"/>
+            <p>A SHORT ACCOUNT OF THE COMPANY OF GROCERS, From their ORIGINAL.</p>
+            <p>TOGETHER, With their <hi>Caſe</hi> and <hi>Condition</hi> (in their preſent Circumſtances) truly ſtated.</p>
+            <p>AS ALSO How their <hi>Revenue</hi> is ſettled, for Payment of their <hi>Charities;</hi> and Proviſion made for the well-governing their <hi>Members</hi> and <hi>Mystery,</hi> to preſerve a <hi>Succeſſion</hi> in their <hi>Society.</hi>
+            </p>
+            <p>Deſigned for <hi>Information</hi> of all, and <hi>Benefit</hi> of the <hi>Members,</hi> and for Satisfaction and Encourage<g ref="char:EOLhyphen"/>ment of their <hi>Friends</hi> and <hi>Benefactors.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Eliz. Holt,</hi> for the Company of <hi>Grocers.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64386:2"/>
+            <pb facs="tcp:64386:2"/>
+            <head>TO THE SACRED MAJESTY OF King WILLIAM AND Queen MARY.</head>
+            <opener>
+               <salute>May it pleaſe Your Majeſties,</salute>
+            </opener>
+            <p>HAVING already preſumed to offer to Your Majeſties Sacred Hands, a mean Preſent, (in a ſmall Treatiſe,) Entitled, <hi>NOSCE TEIPS<g ref="char:V">Ʋ</g>M,</hi> wherein I have endeavoured to give ſome account, how I have ſpent my Holy Days, ſince I have been Clerk of the Company of <hi>GROCERS;</hi> with the Reaſons and Arguments inducing me to join in the Communion of our National Church, when I had examined and tryed all other different Perſuaſions.</p>
+            <p>Your Majeſties Gracious Acceptance of that, together with You my Dread Sove<g ref="char:EOLhyphen"/>reign's
+<pb facs="tcp:64386:3"/>
+vouchſafing to become our Supreme Maſter, have embolden'd me to offer at Your Majeſties Sacred Feet the following Sheets, as the Product of my Working Days in the ſame Service.</p>
+            <p>I may not hope Your Majeſties ſhould ſpare time to look farther; but I moſt humbly be<g ref="char:EOLhyphen"/>ſeech Your Majeſties to caſt Your Gracious Eyes on the few following Lines, which I have recorded in our Regiſter, immediately before the entry of ſuch Your Majeſties Gracious Condeſcention: Whereby I humbly Hope it will plainly appear, no other Company in <hi>London,</hi> might ſo juſtly preſume, to beg the Honour of Adoption by a Crowned Head.</p>
+            <p>That Your Majeſties Sacred Names may be Illuſtrious, from this little Orb, through<g ref="char:EOLhyphen"/>out all Your Majeſties Dominions, to the ends of the Earth, ſhall be the daily, and hearty Prayers of,</p>
+            <closer>
+               <signed>
+                  <hi>May it pleaſe Your Majeſties, Your Majeſties moſt Dutiful, Loyal, and Obedient Subject and Servant,</hi> WILLIAM RAVENHILL, Clerk of the Company of <hi>Grocers.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb facs="tcp:64386:3"/>
+            <head>A ſhort Account of the <hi>Grocers.</hi>
+            </head>
+            <div xml:lang="lat" type="version">
+               <p>
+                  <hi>AULA AROMATARIORUM</hi> (vulgariter <hi>Grocers Hall</hi>) olim nominabatur Domus Illuſtriſ<g ref="char:EOLhyphen"/>ſimi Domini <hi>Fitz-water,</hi> unius è Regni hujus Paribus, quam, regnante <hi>Henrico</hi> Sexto, Societati Aromatariorum vendidit. Sita eſt in ipſo urbis Meditullio, cui adjacet Hortus, qui Aeri liberiori ſpatium det, necnon Area prae foribus ſatis ampla, quâ Senatorum, vice Comitumque, dum Praetori, rebuſque publicis inſerviunt, Nobilium etiam quacunque de cauſa huc accedentium, currus recipiantur; ac ea de cauſa Communitas Aromatariorum, poſt Conflagrationem Urbis horrendam, re-edifica<g ref="char:EOLhyphen"/>bat, ampliorem fecit, &amp; omnis generis neceſſariis adornavit, ut Domus ad Summum Magiſtratum magnificè recipiendum prae omnibus aliis maximè Commoda Videretur: Summus enim Magiſtra<g ref="char:EOLhyphen"/>tus Vicem gerit ipſius Regis; nullis igitur ſumptibus pepercit Aro<g ref="char:EOLhyphen"/>matariorum Societas, ut receptaculum eſſet tanto Officio, tanto Ma<g ref="char:EOLhyphen"/>giſtratu Dignum; nam in hoc opere perficiendo, multa expenduntur Millia Solidorum, ut Aedificium eſſet Splendidum, aptum, &amp; ſuis ci<g ref="char:EOLhyphen"/>vibus conveniens, qui in loco hoc ſeſe ſolemnibus Conviviis, amicitiam ſuam invicem teſtantur &amp; augent, &amp; ab omni Civitatis parte congregati huc accedunt, ut mutuam erga ſeipſos Benevolentiam exerceant. Hoc quoque honori &amp; gloriae totius Regni vertitur, dum egredientes, &amp; Domi redeuntes, Peregrini &amp; Domeſtici, Aulam hanc conſpicuam mirantur ſimul &amp; amant.</p>
+               <p>Quod ad antiquitatem Spectat egregiae hujus Societatis, Originem ſuam longâ ſerie deducit à Mercatoribus Romanis, qui cum Orien<g ref="char:EOLhyphen"/>tali Orbis Regione commercia habuerunt pro Aromatibus compa<g ref="char:EOLhyphen"/>randis, &amp;, devictâ hâc Inſulâ, Urbem habitabant. Quibus Nostratium in re nautica peritia Originem ſuam debere videtur, ſaltem ab illis multum incrementi accepit, atque adeò Maris
+<pb facs="tcp:64386:4"/>
+Imperium, quod haec Inſula largè latéque per multa retro Secula obtinuit, eiſdem aliquo modo acceptum refert. Quapropter in Divitiis, &amp; abundanti rerum Copiâ, caeteras omnes Communitates facilè ſuperabant. Hinc Ortae ſunt Familiae illustriſſimae, mox Prolem illuſtriorem daturae.</p>
+               <p>Haec Communitas, Corpus fit politicum, ſub cura &amp; guber<g ref="char:EOLhyphen"/>natione quatuor Cuſtodum, qui vocari poſſint Superintendentes, nomine Magistro excluſo, ut Capiti Coronato ſemper locus relinquetur, quem locum Carolus Secundus (Beatae Memoriae) Rex implere non dedignatus eſt; Cujus Nomen, ut aeternitati conſecraret gratiſſima Societas, <hi>Statuam</hi> ejus erexit in Byrſa Regia, &amp; in Regiſtro ſuo Nomen ejus inſcriptum habet, ut testimonium ſit poſteris gra<g ref="char:EOLhyphen"/>titudinis ſuae erga Regem tam Benignum, qui Chartam illi fixam red<g ref="char:EOLhyphen"/>didit &amp; firmam; quâ in re Exemplum propoſuit Regibus ſuis ſuc<g ref="char:EOLhyphen"/>ceſſoribus, ut favore ſuo perpetuo Communitatem hanc foverent, ut perpetuum ſit Charitatis Diverſorium, &amp; fertiliſſimum Mer<g ref="char:EOLhyphen"/>catorum opulentorum, piorum Civium, &amp; fidelium Subditorum, Seminarium.</p>
+            </div>
+            <div xml:lang="eng" type="version">
+               <head>Which may be thus read in <hi>Engliſh:</hi>
+               </head>
+               <p>
+                  <hi>GROCERS</hi> HALL was once the Manſion-Houſe of the Lord <hi>Fitz-water,</hi> a Peer of this Realm, of whom the Company purchaſed the ſame, in the Reign of King <hi>Henry</hi> the Sixth, being ſituate in the Centre of the City of <hi>London,</hi> and having a fair open Garden behind for Air and Diverſion, and before it, within the Gate, a large Court-yard, for the reception of Coaches, as the Aldermen and Sherriffs attend the Lord Mayor on Pub<g ref="char:EOLhyphen"/>lick Affairs, eſpecially from <hi>Guild-Hall,</hi> and the Seſſions
+<pb facs="tcp:64386:4"/>
+at the Old-Baily; or as the Nobility, and other Perſons of Quality, ſhall either pay their Viſits, or be thither in<g ref="char:EOLhyphen"/>vited by his Lordſhip: For theſe Reaſons the Company of <hi>Grocers,</hi> after the late dreadful Fire, rebuilt and inlarged it with all Offices and Accommodations, far beyond any other Place that ever was, or now is, for the moſt Com<g ref="char:EOLhyphen"/>modious Seat of the Chief Magiſtrate, as he is for the time being his Majeſty's Repreſentative in this Famous City, at the expence of many thouſand pounds, as deſigning it for encouragement of their Members, and conveniency of the Citizens reſorting thither, as to the Fountain of Juſtice, from all Parts of the City; as it may alſo redound to the Honour of the Kingdom, being conſpicuous (in their tranſient view) to Embaſſadors and Foreigners, as well as Natives of his Majeſty's Dominions, paſſing and re<g ref="char:EOLhyphen"/>paſſing through this City.</p>
+               <p>And as this Society may boaſt of its Antiquity, deriving its Original from Merchants in <hi>Rome,</hi> trading in Spices to the Eaſtern Parts, who from <hi>Rome</hi> tranſplanted them<g ref="char:EOLhyphen"/>ſelves to this City with the Conqueſt of this Iſland, and firſt gave Wings to Navigation here, from whence this Iſland hath been able to give Law (by Sea) to all the World; ſo hath it (above all other Companies in <hi>London</hi>) abounded in wealthy Members, trading both at home and abroad; from whence have ſprung many honourable Families, being incorporate by the Name of <hi>Four-Wardens,</hi> as Super-intendents, without a Maſter, and ſo moſt capable of Adoption by a Crowned Head; King <hi>Charles</hi> the Se<g ref="char:EOLhyphen"/>cond of Bleſſed Memory, having been their laſt Sovereign Maſter; and, as other Companies have done, in Memory
+<pb facs="tcp:64386:5"/>
+of the King from whom they have received the like Ho<g ref="char:EOLhyphen"/>nour, ſo this Company hath ſet up his ſaid late Majeſty's Statue in the <hi>Royal Exchange,</hi> and recorded his Sacred Name here in their Regiſter, that ſo the Generations to come may know how far they are Debtors to his Me<g ref="char:EOLhyphen"/>mory, for the Foundation he laid, whereon his Royal Suc<g ref="char:EOLhyphen"/>ceſſors might build, to carry on and complete their Hap<g ref="char:EOLhyphen"/>pineſs, in reſtoring and ſetling ſo Pious a Nurſery of Cha<g ref="char:EOLhyphen"/>rities, and fruitful Seminary of Eminent Merchants and Good Citizens.</p>
+            </div>
+            <closer>God ſave the King and Queen.</closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64386:5"/>
+            <head>TO THE RIGHT HONOURABLE CHARLES EARL OF <hi rend="blackletterType">Dorſet</hi> and <hi rend="blackletterType">Middleſex,</hi> Lord Chamberlain of his Majeſty's Houſhold.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THough my Station be but low in this little Province; yet I can (now) without Breach of my good Behaviour, humbly boaſt of the Honour of being (therein) Your Lordſhip's Fellow-Servant, under one Sovereign Master, ſo Good and Gracious, that He delights in nothing more, than to encourage the Diligent and the Faithful.</p>
+            <p>The Company of <hi>Grocers,</hi> who have ſuffered an Eclipſe of late Years, from the ſad Effects of War and Fire, are now, under the Sun-ſhine of His Ma<g ref="char:EOLhyphen"/>jeſty's Gracious Influence, to be reſtored to their Priſtine Luſtre, ſo as with Courage and Comfort they may improve their Privileges and Immunities
+<pb facs="tcp:64386:6"/>
+for Publick and Diffuſive Good, in diſcharge of their great Truſts, agreeable to the Original End and Deſign of their Corporation.</p>
+            <p>My Lord, Though this Society had not the Mammon of Profit and Advantage, to Court Your Lordſhip's Patronage; yet I may adventure to tell Your Lordſhip, that by implanting Your Self into it, You gave the <hi>Grocers</hi> no more than their due; for it cannot be doubted, that a Body Politick, that makes out ſo fair a claim to a Crowned Head, can be defective in their juſt Title to the moſt Honour<g ref="char:EOLhyphen"/>able and Heroick Member. This I have here en<g ref="char:EOLhyphen"/>deavoured to demonstrate, as a Teſtimony, how am<g ref="char:EOLhyphen"/>bitious I am to manifeſt my ſelf Their Majeſties Dutiful and Loyal Subject; and</p>
+            <closer>
+               <signed>
+                  <hi>May it pleaſe Your Lordſhip, Your Honours moſt Faithful, Obliged, and moſt Humble Servant,</hi> William Ravenhill, <hi>Clerk of the Company.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_his_fellow_guild_members">
+            <pb facs="tcp:64386:6"/>
+            <head>To the Right Honourable, Right Worſhipful, and the reſt of the Worthy MEMBERS of the SOCIETY of the MYSTERY of GRO<g ref="char:EOLhyphen"/>CERY, <hi>London. William Ravenhill,</hi> their Clerk, humbly offers and prays their Acceptance and Peruſal of theſe following Papers; as a Teſti<g ref="char:EOLhyphen"/>mony of his Hearty Deſires, and Sincere Endeavours, to vin<g ref="char:EOLhyphen"/>dicate the Reputation, and improve the Intereſt of this Society.</head>
+            <p>AS ſoon as by the good Providence of God I obtained the Favour, and had the Happineſs to be choſen your Clerk, I reſolved with my utmoſt Diligence, to purſue and perform my Duty in this Place, and thereby gratefully anſwer the expectation of my Friends, who promoted my Election; and alſo lay hold on ſo fair an opportunity, to ingra<g ref="char:EOLhyphen"/>tiate my ſelf into the Favour and Eſteem of Good Men: Being convinced, that if I ſhould neglect my Duty, it would render my Folly and Ingratitude more conſpi<g ref="char:EOLhyphen"/>cuous to the World: Therefore, that I might in doing the one avoid the other, I endeavoured, in the firſt place, to inform my ſelf of the true State and Condition of the Company; upon Inqueſt whereof, I found it plain and manifeſt, that for want of Knowledge of the Truth thereof, many Reproaches and Reflexions were caſt upon this Society, both from Strangers (with whom
+<pb facs="tcp:64386:7"/>
+they have been no way concerned) and alſo their Cre<g ref="char:EOLhyphen"/>ditors, who rendred them obnoxious in Courts of Law and Equity, and before the Commiſſioners for Chari<g ref="char:EOLhyphen"/>table Uſes, as if they had been a Company that poſſeſſed a great Revenue, ſufficient to pay all their Debts; yet were ſo averſe from doing that, that they waſted and conſumed their Eſtate in Feaſting themſelves, refuſing to pay, unleſs they were compelled by Chargeable Suits; which not only aggravated their Creditors, but alienated the Affections of many good Perſons, as well Members as others; and cauſed many chargeable Suits and vexatious Proſecutions againſt them, notwithſtan<g ref="char:EOLhyphen"/>ding the great Care and Endeavours of ſome Worthy and Good Members, who uſed all poſſible means to avoid the ſame: Therefore I made it my great Deſign to ac<g ref="char:EOLhyphen"/>quaint my ſelf with all their Affairs, and paſt Tran<g ref="char:EOLhyphen"/>ſactions, that I might be able to make a true Repreſen<g ref="char:EOLhyphen"/>tation of the Company's Condition, both what it was before they contracted their Debts, and how they be<g ref="char:EOLhyphen"/>came indebted; what they have already done towards it, and what means and methods they may beſt uſe and proſecute to diſcharge themſelves; to the end thoſe great Reproaches and Prejudices (which through Miſ-appre<g ref="char:EOLhyphen"/>henſions and falſe Reports have been caſt on this Com<g ref="char:EOLhyphen"/>pany) may be removed. And every true-hearted Mem<g ref="char:EOLhyphen"/>ber, that bears a Chriſtian reſpect to the Pious Memory of our Anceſtors, (who were Worthy Benefactors,) and would in diſcharge of his Duty commend himſelf, after their Example, to Poſterity, may willingly and chear<g ref="char:EOLhyphen"/>fully
+<pb facs="tcp:64386:7"/>
+lay to his helping hand. And as a farther Teſti<g ref="char:EOLhyphen"/>mony of my hearty deſires to ſerve the Members, having ſo briefly ſtated the Company's Caſe, I ſhall endeavour to give you a ſhort account of the Antiquity, and firſt Creation, and Continuance of the <hi>GROCERS,</hi> as far and clear as I can make Conjecture, or have received any probable Account; alſo I have regulated and di<g ref="char:EOLhyphen"/>geſted the Company's Books into an orderly Method; as alſo their Evidences to clear their Titles to their ſeveral Rents, Lands, and Houſes, and the ſeveral Schools un<g ref="char:EOLhyphen"/>der their Government: And alſo the ſeveral Eccleſiaſti<g ref="char:EOLhyphen"/>cal Livings in the diſpoſition of this Society, with the Names of their Founders, and how they became Veſted in their Right; and alſo other Privileges peculiar to this Society; and how their whole Revenue (as a moſt righteous <hi>Sanction</hi>) is ſettled to ſecure the due payment of all their yearly Charities; ſo as it may appear obvious and plain to be underſtood by every individual Member, of which it will not be proper here to give an account; but I refer to the Books and Records themſelves, more fit to be inſpected at this Hall, by ſuch as have Right to know them, than to be expoſed to view of others, whom it no way concerns.</p>
+            <p>To which I have added a ſhort account of ſome En<g ref="char:EOLhyphen"/>largement of Privileges, granted them by King <hi>Charles</hi> the Second, after the <hi>Quo Warranto</hi> brought againſt them; which though it were an Invaſion of the Subject's Rights, yet, by the over-ruling Providence of God, it became an occaſion of advantage to this Company, as it put them
+<pb facs="tcp:64386:8"/>
+upon ſearching into, and Examination of their Conſti<g ref="char:EOLhyphen"/>tution, ſo as to diſcover their Defects and Irregularities; and by advice of Learned Counſel to obtain a ſubſe<g ref="char:EOLhyphen"/>quent Charter, <hi>without dependance on, or relating to any Surren<g ref="char:EOLhyphen"/>der; and without injury to, or interfering with any other Company, otherwiſe than to regulate miſ-uſage, and to preſerve their own Rights; but rather tending to the benefit and advantage of the whole City, as it explains and ſettles the Species of their Myſtery, and incorporates the whole (in</hi> London <hi>and within three Miles) into one Body,</hi> to anſwer the Original End and Deſign of their Corporation, and to prevent a Spurious Mixture, (the Cauſe of all Abuſe and Diſorder in every Myſtery,) by putting in Execution the By-Laws and Ordinances, made and provided, purſuant thereto, for well-govern<g ref="char:EOLhyphen"/>ing and regulating their Members and Myſtery; which <hi>By-Laws</hi> and <hi>Ordinances</hi> are now examined and approved of (as the Law directs) by the Right Honourable the <hi>Lords Commiſſioners</hi> for the Cuſtody of the Great Seal, and the Lord Chief Juſtice of either Bench, (Sir <hi>John Holt,</hi> and Sir <hi>Henry Pollexfen,</hi>) to oblige all Perſons uſing their <hi>Myſtery,</hi> as <hi>Grocers, Confectioners, Druggiſts, Tobacconists,</hi> or <hi>Tobacco-Cutters,</hi> in <hi>London</hi> and three Miles diſtant, (as being ſo incorporate and declared a part of their Myſte<g ref="char:EOLhyphen"/>ry,) to a compliance therewith, in order to ſupport their Charities, and to preſerve a <hi>Succeſſion of Members in the Company.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:64386:8"/>
+            <head>THE COMPANY'S CASE Briefly Stated.</head>
+            <p>MOST part of the ſaid Company's Revenue is charged with yearly Charities to ſeveral Pariſhes, Places, and <g ref="char:V">Ʋ</g>ſes, amounting to near the yearly Profits they receive; moſt part whereof conſiſted of Houſes in <hi>London,</hi> which were all conſumed by the late dreadful Fire, when they expected to have ad<g ref="char:EOLhyphen"/>vanced great Summs of Money, by way of Fines, on renewing of Leaſes, towards Payment of their Debts.</p>
+            <p>They had alſo heretofore many and great Summs of Money paid into their Hands, as a Fund for the <g ref="char:V">Ʋ</g>ſes following, <hi>(viz.)</hi>
+            </p>
+            <p>To pay yearly Summs in Coals, Faggots, and Money, to ſeveral Pariſhes and Wards about <hi>London,</hi> and elſewhere.</p>
+            <p>To ſeveral Priſons for Redemption and Releaſe of Priſoners,</p>
+            <p>To the Poor Members of the Company.</p>
+            <p>To be lent to Young Men that had ſerved their Times to Members of this Com<g ref="char:EOLhyphen"/>pany on Security, with little or no Intereſt, to ſet up, and to be returned again.</p>
+            <p>To buy Impropriations, for maintenance of Miniſters, where their Livings are ſmall. And</p>
+            <p>To maintain ſeveral Schools and Alms-Houſes.</p>
+            <p>They complyed punctually with all their Truſts, continuing in very great Credit and Reputation, until the ſad Effects of War and Fire rendred them uncapable to diſcharge their yearly Charities, where they have no Fund left. And</p>
+            <p>The remaining part of their great Debts which they contracted, as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Anno 1640.</hi> To accommodate the late King <hi>Charles</hi> the Firſt, in his Exigencies, on Security of ſome of his Peers, — <hi>4500</hi> l.</p>
+            <p>
+               <hi>Anno 1642.</hi> To Subdue the Rebellion in <hi>Ireland,</hi> and Relieve his ſaid late Ma<g ref="char:EOLhyphen"/>jeſty's Proteſtant Subjects there in diſtreſs, — <hi>9000</hi> l.</p>
+            <p>
+               <hi>Anno 1643.</hi> They were compelled to lend the City, for which they had their Common Seal, — <hi>4500</hi> l.</p>
+            <p>All which they took up on the Company's Seal, nor were ſingular therein, but neceſſitated thereto, in compliance with all other Companies, and indeed with the whole City.</p>
+            <p>
+               <pb facs="tcp:64386:9"/>
+               <g ref="char:V">Ʋ</g>pon their taking up this Money, they made a By-Law to levy the ſame on them<g ref="char:EOLhyphen"/>ſelves, if their Stock fell ſhort; and ſo they continued payment of their Intereſt; and as one Creditor called for his Money in, they took up of others, and paid them off, depending upon getting in their ſaid Principal; all which failed them, till at laſt their ſole hope was of advancing Money by renewing of Leaſes, many whereof were nigh expired; but the Fire in <hi>1666.</hi> conſumed their whole Revenue in <hi>London;</hi> they having already paid for Intereſt of Money, between <hi>1640.</hi> and <hi>1666.—30000</hi> l.</p>
+            <p>As their Debts exceeded any other Companies, ſo their loſs herein was exceeding great, ſo that now they were uncapable any longer to pay Debts or Charities.</p>
+            <p>They applied themſelves to the Parliament, then ſitting, on their ſaid By-Law, but were rejected, as binding to no more than were Parties to it, moſt of whom were dead.</p>
+            <p>They had then no means to raiſe Money, but by letting their Ground to Builders for Fines, on long Leaſes, great part whereof they were compelled to, by decree of the Judges at <hi>Clifford's</hi>-Inn.</p>
+            <p>And by voluntary Subſcriptions, both which were ſet on foot ſoon after the Fire; and to encourage Subſcriptions, Sir <hi>John Cutler,</hi> erected the firſt Building in the Garden.</p>
+            <p>They raiſed conſiderable Summs, and propounded to pay their Creditors their Prin<g ref="char:EOLhyphen"/>cipal, part thereof down, and the reſt at two Payments.</p>
+            <p>And after many Meetings, moſt of their Creditors inclined to accept of ſuch Pro<g ref="char:EOLhyphen"/>poſals, finding how it muſt be advanced; but ſome of their Members being backward, and ſome Creditors ill adviſed, Sued the Company, and ſeized their Hall in Ruines, which put a ſtop to all, though thoſe Creditors themſelves repent this; afterwards looſing their Charges, and glad to comply on lower terms, than at firſt offered.</p>
+            <p>Afterwards the Company raiſe Money, what they could of kind Members them<g ref="char:EOLhyphen"/>ſelves, and take up the reſidue on the Aſſignment of the Sequeſtration and Conveyance of all their Eſtate, to pay off the Creditors that Sequeſtred, and ſome other remaining proportions to Creditors, who had not yet received any: And to ſupply what was wanting, they let their Land in <hi>Ireland,</hi> on Fine, ſinking their Rent to <hi>10 l. per Annum.</hi> But the Hall continuing in Ruines, the Company was thereby rendred reproachful.</p>
+            <p>The Apprentices bound at other Halls, and turned over.</p>
+            <p>The Freemen take their Freedoms of other Companies.</p>
+            <p>And all Benefactors decline as deſpairing of any good to Poſterity.</p>
+            <p>So that the Members every year dying and failing, and many removing into the Country, and none to ſucceed in their Places,</p>
+            <p>It muſt needs follow, that the Company in few years muſt diſſolve for want of a Succeſſion of Members, which would moſt reproachfully have rendred the Members then living, who were numerous, and equal, if not more eminent, than any other Company, not only moſt ungrateful to their Predeceſſors, who have been ſo liberal Benefactors, and have left ſuch Grounds (though the Buildings were ſo conſumed by Fire) yet now built on, gives a great hope to Poſterity, but alſo obnoxious to Poſte<g ref="char:EOLhyphen"/>rity.</p>
+            <p>
+               <pb facs="tcp:64386:9"/>The conſideration whereof alone, moved Sir <hi>John Moore,</hi> another Worthy Mem<g ref="char:EOLhyphen"/>ber, (then next in courſe to ſucceed in the Chair,) to repair the Body of the Hall, and alſo Sir <hi>James Edwards,</hi> and other kind Members, to enlarge it with Com<g ref="char:EOLhyphen"/>modious Buildings for the Seat of a Chief Magiſtrate; that it might not only encou<g ref="char:EOLhyphen"/>rage the Freemen, Apprentices, and Benefactors, to preſerve the Company a Nur<g ref="char:EOLhyphen"/>ſery of Charity, and Seminary of good Citizens, but alſo anſwer the Charge of the Building, in improving the yearly Revenue of the Company; and is indeed (if rightly conſidered) in the Company's preſent Circumſtances, of greater advantage to the Company, than any one thing that hath been done for them. For</p>
+            <p n="1">I. It hath much incouraged the Apprentices and Freemen, ſo that whereas there uſed to be bound one, two, or three Apprentices in a Month, and one or two made free before, and thoſe but poor Artificers; they encreaſed afterwards to a far greater Number, as well of Freemen, as Apprentices; and many of them of good Quality.</p>
+            <p n="2">II. It hath given great ſatisfaction to ſeveral Eminent Members, who have de<g ref="char:EOLhyphen"/>clared themſelves very inclinable to contribute largly towards diſcharge of the Com<g ref="char:EOLhyphen"/>pany's Debts and Charities, if they ſee but any Encouragement from the reſt of the Members.</p>
+            <p n="3">III. This Building, though it amounts to much more than what it was at firſt de<g ref="char:EOLhyphen"/>ſigned, yet a great part thereof hath been freely laid down, on purpoſe for this work; and whatever is farther laid down towards it, (which it is hoped the whole will be raiſed by kind Members to anſwer theſe good ends,) would never have been ſo given, but for this very purpoſe.</p>
+            <p>And that the Building and Beautifying the Hall, may not be a bait to Creditors again to ſeize it, ſo again to diſcourage the Members,</p>
+            <p>The Hall, and the Company's Revenue, is, by advice of Counſel, ſettled by Con<g ref="char:EOLhyphen"/>veyance and Decree.</p>
+            <p n="1">I. Subject to ſecure the Money ſo taken up to diſcharge the Sequeſtrations, <hi>&amp;c.</hi> And when thoſe, and what Monies they ſhould be ſo neceſſitated to take up to compleat the Buildings, ſhall be diſcharged.</p>
+            <p n="2">II. Then to ſecure (ſo far as the ſame will extend) the yearly Charities where<g ref="char:EOLhyphen"/>with the Company is chargeable, by many Benefactors who ſo heretofore left Money in their Hands, as a Fund to ſecure the ſame; no part whereof now remains; as being a truſt they are liable in the firſt place, as a Duty incumbent on them, both to avoid a Curſe, and in order to obtain a Bleſſing from God upon their Endeavours; and alſo to avoid proſecution of the Commiſſioners, upon the Statute for Charitable <g ref="char:V">Ʋ</g>ſes, who have yearly put the Company to vaſt expences already upon that Account.</p>
+            <p>And theſe things having been made known to their Creditors, who were alſo con<g ref="char:EOLhyphen"/>vinced (by the ill ſucceſs of others) how vain and fruitleſs it would be to put them<g ref="char:EOLhyphen"/>ſelves and the Company to trouble and charge, whereby they might hazard the loſs of their Debts, but not in the leaſt better ſecure them; the Company have been not only free from Suits and Proſecutions, which they were not at any time before, ſince their troubles began, but alſo the Wardens and Aſſiſtants have been (in a great mea<g ref="char:EOLhyphen"/>ſure) freed from thoſe daily Clamours, which diſturbed them in the Company's Service.</p>
+            <p>
+               <pb facs="tcp:64386:10"/>And now ſo fair an opportunity being offered to deliver the Company, and to give Encouragement to Benefactors; it is hoped there is no Member but will chearfully embrace it, whereby they ſhall not only draw others on, by their Example, to preſerve this Society ſtill a Nurſery of Charity, and Seminary of good Citizens; but alſo encourage Benefactors for the future, ſome in their Lives, and others at their Death, liberally to extend their Kindneſs towards this Company; and without all doubt, ſuch works as theſe are acceptable to God, in times of greateſt Trouble and Danger; and ſuch Benefactors may hope (on no leſs Security than God's own Word) for Eaſe and Comfort on a Sick Bed, and Deliverence in time of Trouble.</p>
+            <p>And moreover their Creditors (being now made ſenſible of the Truth of the Com<g ref="char:EOLhyphen"/>pany's Condition) are inclined to comply with any reaſonable Propoſals ſhall be made by any on the Company's behalf, and (as ſome have already done) others are willing, and ready to embrace ſuch Terms, as may be agreeable to the Company's Condition in their preſent Circumſtances, for their Satisfaction.</p>
+            <p>
+               <hi>I have thus abſtracted the Company's Caſe in theſe four Pages: To the end all Perſons concerned (whether Members, Creditors, or Benefactors) whoſe time will not permit them to read the following Sheets, may be more readily informed upon all Occaſions of the Truth of their Condition: And for their eaſe, who ſhall deſire farther Satisfaction in any particular, I have added marginal Notes in the following Pages for their Direction.</hi>
+            </p>
+            <p>And now having at laſt by God's aſſiſtance, and with unwearied induſtry, accompliſhed my deſign; and having alſo traced their Revenue to the Ori<g ref="char:EOLhyphen"/>ginal Donors and Purchaſers, I did (by order of the Aſſiſtants) prepare and cauſe the ſeveral following Tables to be ſet up in their Hall, which I have here inſerted, (as a Monument more laſting) to the end the Names of their Friends and Benefactors, from whom they have received All, may be kept in Memory, that the Generations to come, as well as the preſent Age, may not only bleſs God for ſuch a Foundation, but be quicken'd from their Example to build and enlarge thereupon, that their Names may in like man<g ref="char:EOLhyphen"/>ner ſurvive in the bloſſom of a ſweet ſmelling ſavour, when their Bodies are turned to duſt.</p>
+         </div>
+         <div type="tables_of_friends_and_benefactors">
+            <pb facs="tcp:64386:10"/>
+            <head>The ſeveral Tables, &amp;c.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell rend="small">THE Right Ho<g ref="char:EOLhyphen"/>nourable <hi>Charles</hi> Earl of <hi>Dorſet</hi> and <hi>Mid<g ref="char:EOLhyphen"/>dleſex,</hi> Lord Cham<g ref="char:EOLhyphen"/>belain of his Ma<g ref="char:EOLhyphen"/>ieſty's Houſhold, a Faithful Friend and Patron of this So<g ref="char:EOLhyphen"/>ciety; admitted in<g ref="char:EOLhyphen"/>to this Fraternity, <hi>October</hi> the 22d. <hi>1689.</hi> Our moſt Gracious Sovereign Lord King <hi>William</hi> having been firſt choſen the ſame day their Sovereign Maſter.</cell>
+                     <cell>
+                        <p>
+                           <hi>WILLIAM</hi> the III. King of <hi>England,</hi> &amp;c. by his Majeſty's Royal Per<g ref="char:EOLhyphen"/>miſſion, was on the 22d. day of <hi>October,</hi> in the Firſt Year of their Majeſty's Reign, choſen, <hi>&amp;c.</hi> Sovereign Maſter of this Com<g ref="char:EOLhyphen"/>pany, graciouſly ac<g ref="char:EOLhyphen"/>cepting the Inſtru<g ref="char:EOLhyphen"/>ment of ſuch his Ma<g ref="char:EOLhyphen"/>jeſty's Election and Freedom in a Gold Box.</p>
+                        <p>Soon after which, the Ordinances for well-governing and regulating the Mem<g ref="char:EOLhyphen"/>bers and Myſtery of the <hi>Grocery,</hi> were examined, and like<g ref="char:EOLhyphen"/>wiſe approved of (as the Law directs) by the Right Honourable the Lords Commiſſio<g ref="char:EOLhyphen"/>ners for the Cuſtody of the Great Seal, and the Lords Chief Juſtices of either Bench.</p>
+                        <list>
+                           <head>War<g ref="char:EOLhyphen"/>dens.</head>
+                           <item>
+                              <hi>Sir</hi> Ralph Box, <hi>Kt.</hi>
+                           </item>
+                           <item>John Butterfield.</item>
+                           <item>Richard Peirce.</item>
+                           <item>Francis Chamberlaine.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>CHARLES</hi> the II. late King of <hi>England,</hi> &amp;c. and Sovereign Maſter of this Company, was graciouſly pleaſed by Special Warrant, un<g ref="char:EOLhyphen"/>der his Sign Manual, to aſcertain the ſeveral Branches of the Myſtery of the <hi>Grocery,</hi> de<g ref="char:EOLhyphen"/>claring <hi>Druggiſts, Confectioners, To<g ref="char:EOLhyphen"/>bacconiſts,</hi> and <hi>To<g ref="char:EOLhyphen"/>bacco-Cutters,</hi> (as all ſpringing from it) to be a part of the My<g ref="char:EOLhyphen"/>ſtery; and purſuant thereto, they were af<g ref="char:EOLhyphen"/>terwards by Charter, under the Great Seal, duely Incorporated, and made one Body with the <hi>Grocers,</hi> (never to be ſepa<g ref="char:EOLhyphen"/>rated) to preſerve a Succeſſion of Mem<g ref="char:EOLhyphen"/>bers in this Com<g ref="char:EOLhyphen"/>pany.</cell>
+                     <cell rend="small">THE Right Ho<g ref="char:EOLhyphen"/>nourable <hi>John</hi> Earl of <hi>Mul<g ref="char:EOLhyphen"/>grave,</hi> one of the Lords of the Bed-Chamber to King <hi>Charles</hi> the Second, and after that Lord Chamberlain, <hi>&amp;c.</hi> having taken his Freedom of this Company, was moſt affectionately aſſiſt<g ref="char:EOLhyphen"/>ing to procure the Species of the My<g ref="char:EOLhyphen"/>ſtery explained and ſettled in order to preſerve a Suc<g ref="char:EOLhyphen"/>ceſſion of Members in this Society.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <pb facs="tcp:64386:11"/>
+                  <row>
+                     <cell>
+                        <p>THE Site of this Hall and Garden, with the Ground whereon Sir <hi>Robert Clayton</hi>'s Dwelling-Houſe ſtands, was for<g ref="char:EOLhyphen"/>merly the Manſion-Houſe and In<g ref="char:EOLhyphen"/>heritance of the Right Honourable the Lord <hi>Fitzwater,</hi> of whom the Company purchaſed the ſame, in the Reign of King <hi>Henry</hi> the Sixth, and ſoon after built their Hall thereon; for both which, they borrowed great Summs of Money: And afterwards, in their languiſhing Condition,</p>
+                        <p>Sir <hi>Henry Keble,</hi> Kt. and Al<g ref="char:EOLhyphen"/>derman, ſome time Lord Mayor, lent them Money, on Security of their Hall and Revenue, to clear their Debts.</p>
+                        <p>And, by his laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, dated in the ſixth Year of King <hi>Henry</hi> the Eighth, freely gave all back to the Company for ever, to ſupport their Charities.</p>
+                     </cell>
+                     <cell>
+                        <p>SIR <hi>William Laxton</hi> Kt. and Alderman, alſo ſome time Lord Mayor, by his laſt Will and Teſtament, dated the 17th Day of <hi>July, 1556.</hi> gave, for ever, to this Com<g ref="char:EOLhyphen"/>pany, all his Lands and Te<g ref="char:EOLhyphen"/>nements in <hi>Canning-Street,</hi> and the ſeveral Lanes adja<g ref="char:EOLhyphen"/>cent, whereon are now erected many fair Dwelling-Houſes, by the Leſſees, after the late dreadful Fire;</p>
+                        <p>To maintain a School-Ma<g ref="char:EOLhyphen"/>ſter and <g ref="char:V">Ʋ</g>ſher, and ſeven Almſ-men, and a Woman to attend them, at <hi>Gundle</hi> in <hi>Northamptonſhire;</hi> and the Surpluſage to ſupport their Charities.</p>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Bodies of theſe two Worthy Members and Benefactors, were both laid in one Vault in St. <hi>Mary Aldermary</hi> Church, with fair Monuments over them, demoliſhed by the ſaid late Fire.</p>
+            <p>The ſaid Sir <hi>Henry Keble,</hi> at his own proper Charges, built the ſaid St. <hi>Mary Aldermary</hi> Church.</p>
+            <p>
+               <table>
+                  <pb facs="tcp:64386:11"/>
+                  <row>
+                     <cell role="label">
+                        <hi>BENEFACTORS,</hi> From whom the Company have received their Revenue, deſigned for the Support and Relief of their poor Members, and Diſcharge of other charitable <g ref="char:V">Ʋ</g>ſes.</cell>
+                     <cell role="label">
+                        <hi>BENEFACTORS,</hi> Who gave the Company Summs of Money to purchaſe Lands and Tenements; which (with much more) they laid out in improving the Lands and Tenements ſo gi<g ref="char:EOLhyphen"/>ven by other Benefactors, that the ſame might alſo anſwer the yearly Charities appointed by thoſe Donors of ſuch Moneys.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <table>
+                           <head>The <hi>DONORS</hi> Names, and the Streets and Places where their Lands and Tene<g ref="char:EOLhyphen"/>ments ſo given are ſituate.</head>
+                           <row>
+                              <cell>
+                                 <hi>Sir</hi> Henry Keble,</cell>
+                              <cell>Broad-Street.</cell>
+                           </row>
+                           <row>
+                              <cell rows="2">
+                                 <hi>Sir</hi> William Butler,</cell>
+                              <cell>Thames-Street.</cell>
+                           </row>
+                           <row>
+                              <cell>Mincing Lane.</cell>
+                           </row>
+                           <row>
+                              <cell>John Maldon,</cell>
+                              <cell>Botolph-Lane.</cell>
+                           </row>
+                           <row>
+                              <cell rows="2">Thomas Gore,</cell>
+                              <cell>Grace Church-Street.</cell>
+                           </row>
+                           <row>
+                              <cell>Lombard-Street.</cell>
+                           </row>
+                           <row>
+                              <cell>John Billeſdon,</cell>
+                              <cell>Cornhil.</cell>
+                           </row>
+                           <row>
+                              <cell rows="7">
+                                 <hi>Sir</hi> William Laxton,</cell>
+                              <cell>Canning-Street.</cell>
+                           </row>
+                           <row>
+                              <cell>Buſh-Lane.</cell>
+                           </row>
+                           <row>
+                              <cell>Abchurch-Lane.</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>St.</hi> Nicholas-Lane.</cell>
+                           </row>
+                           <row>
+                              <cell>Eaſtcheap.</cell>
+                           </row>
+                           <row>
+                              <cell>Sherborn Lane.</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>St.</hi> Swithins Lane.</cell>
+                           </row>
+                           <row>
+                              <cell>John Wardall,</cell>
+                              <cell>Walbrook.</cell>
+                           </row>
+                           <row>
+                              <cell>Thomas Knowles,</cell>
+                              <cell>
+                                 <hi>St.</hi> Antholins.</cell>
+                           </row>
+                           <row>
+                              <cell rows="2">Emme Bachus,</cell>
+                              <cell>Wood-Street.</cell>
+                           </row>
+                           <row>
+                              <cell>Steyning-Lane.</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>Sir</hi> Thomas Middleton,</cell>
+                              <cell>Baynerd's Caſtle.</cell>
+                           </row>
+                           <row>
+                              <cell>William Robinſon,</cell>
+                              <cell>Grub-Street.</cell>
+                           </row>
+                           <row>
+                              <cell>Elizabeth Burrel,</cell>
+                              <cell>Cheap-Side.</cell>
+                           </row>
+                           <row>
+                              <cell>Peter Bloundell,</cell>
+                              <cell>Donning's Alley.</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>Sir</hi> John Hart,</cell>
+                              <cell>Shore-Ditch.</cell>
+                           </row>
+                           <row>
+                              <cell rows="2">
+                                 <hi>Lady</hi> Anne Middleton,</cell>
+                              <cell>Montgomery-Shire.</cell>
+                           </row>
+                           <row>
+                              <cell>Cornwall.</cell>
+                           </row>
+                        </table>
+                     </cell>
+                     <cell>
+                        <table>
+                           <row role="label">
+                              <cell> </cell>
+                              <cell>lb</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>Lady</hi> Conway</cell>
+                              <cell>1441</cell>
+                           </row>
+                           <row>
+                              <cell>Gilbert Keate</cell>
+                              <cell>600</cell>
+                           </row>
+                           <row>
+                              <cell>William Robinſon</cell>
+                              <cell>400</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>Alderman</hi> Saunders</cell>
+                              <cell>210</cell>
+                           </row>
+                           <row>
+                              <cell>Francis Tyrrel</cell>
+                              <cell>700</cell>
+                           </row>
+                           <row>
+                              <cell>John Heydon</cell>
+                              <cell>100</cell>
+                           </row>
+                           <row>
+                              <cell>Edmond Turvill</cell>
+                              <cell>1000</cell>
+                           </row>
+                           <row>
+                              <cell>Robert Lambert</cell>
+                              <cell>100</cell>
+                           </row>
+                           <row>
+                              <cell>Nicholas Stiles</cell>
+                              <cell>100</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>Sir</hi> John Peachy</cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>Richard Haile</cell>
+                              <cell>200</cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <hi>Mr.</hi> Wheatley</cell>
+                              <cell>100</cell>
+                           </row>
+                           <row>
+                              <cell>Humphry Walwyn</cell>
+                              <cell>600</cell>
+                           </row>
+                           <row>
+                              <cell>Mary Robinſon</cell>
+                              <cell>500</cell>
+                           </row>
+                           <row role="total">
+                              <cell>
+                                 <hi>Total Summ</hi>
+                              </cell>
+                              <cell>6551</cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The preſent Rents (with ſome ſmall Addition from the caſual yearly Profits) do diſcharge the whole yearly Charities of both kinds; and the Arrears of each Branch are ſecured to be paid out of the firſt Fines on renewing Leaſes, and other Improvement of the ſame.</p>
+            <p>And to preſerve and augment their Revenue, they have made proviſion to pre<g ref="char:EOLhyphen"/>vent adding to any Term, whilst five Years remain in being; and not to reſerve leſs than <hi>10 l. per Cent. per Annum,</hi> of the full improved yearly Value, on Demiſe of any part thereof.</p>
+            <div type="table">
+               <pb facs="tcp:64386:12"/>
+               <head>Benefactors,</head>
+               <p>
+                  <hi>WHO gave Summs of Money, to be lent to young Members of the Com<g ref="char:EOLhyphen"/>pany, on ſmall or no Intereſt, at the Diſcretion of the Wardens and Aſſiſtants; wherewith the Company having charged themſelves, the ſame are now decreed to be raiſed out of the firſt Fines on renewing Leaſes, or other Profits ariſing out of their Revenue, (above their yearly Charities,) imme<g ref="char:EOLhyphen"/>diately after the Arrears of their yearly Charities ſhall be diſcharged; and for ever to be continued a Stock for theſe, and to be applied to no other <g ref="char:V">Ʋ</g>ſes whatſoever.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Lady</hi> Slaney</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Edmond Turvyll</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Henry Anderſon</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>John Newman</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gilbert Keate</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Wheatley</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir</hi> John Lyon</cell>
+                        <cell>200</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Edward Elmer</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Farmer</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Lettice Deane</cell>
+                        <cell>200</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Richard Lambert</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Edward Jakeman</cell>
+                        <cell>200</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Katharine Hall</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Roger Knott</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>John Heydon</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir</hi> Thomas Ramſey</cell>
+                        <cell>200</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Peter Houghton</cell>
+                        <cell>400</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Ridge</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>John Grove</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gilbert Keate</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Dawkins</cell>
+                        <cell>20</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Robert Brooke</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Mary Robinſon</cell>
+                        <cell>200</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>George Holman</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Richard-Hall</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Weſtraw</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Robert Bowyer</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>John Hudſon</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir</hi> Robert Nappier</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>William Pennyfather</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Moulſton</cell>
+                        <cell>200</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Stephen Abberley</cell>
+                        <cell>250</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>John Mevil</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Gamull</cell>
+                        <cell>200</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Conſtance Wrightman</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sir</hi> Edmond Wright</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Freeman</cell>
+                        <cell>100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>William Pennyfather</cell>
+                        <cell>233</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>This was not only a great Encouragement for young Men ſo to behave them<g ref="char:EOLhyphen"/>ſelves, during their Apprenticeſhip, as, by a good Report, to recommend them<g ref="char:EOLhyphen"/>ſelves capable of ſuch a Favour from the Company; but is a great Obligation on ſuch of them as, by God's Bleſſing on their Endeavours, ſhall, from ſmall Beginnings, gain ample Eſtates, to become themſelves alſo liberal Benefactors.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:64386:12"/>
+               <p>IN the Reign of King <hi>Henry</hi> the IV. <hi>Henry Chicheley,</hi> the Eldest Brother, being then Lord Arch-Biſhop of <hi>Canterbury,</hi> his two younger Brethren were both Aldermen, and Members of this Company, <hi>viz.</hi> Sir <hi>William</hi> (the Second) and Sir <hi>Robert</hi> (the Third) both in their turn Sheriffs, and Sir <hi>Robert</hi> afterwards twice Lord Mayor, who purchaſed the Ground whereon St. <hi>Stephen</hi>'s Church in <hi>Walbrook</hi> now ſtands, which he built at his own charge, the Advowſon whereof remains in the Company of <hi>Grocers</hi> to this Day; which Church being conſumed by the Fire, <hi>Anno 1666.</hi>
+               </p>
+               <p>The Right Honourabie Sir <hi>Thomas Chicheley,</hi> (alſo a Member of this Company,) who deſcended in a right Line from the ſaid Sir <hi>Robert,</hi>) late Maſter of the Ordnance, afterwards Chancellor of the Dutchy of <hi>Lancaſter;</hi> and to King <hi>Charles</hi> the Second, and (ſome time) to King <hi>James</hi> the Second, of Their Majesties moſt Honourable Privy Council, laid the firſt Stone, and was a liberal Benefactor towards re<g ref="char:EOLhyphen"/>building thereof.</p>
+               <p>And being their Maſter, <hi>Annis 1686/7.</hi> at his own charge built the Company a new Barge, and purchaſed them the Ten<g ref="char:EOLhyphen"/>nant Right of a Barge-Houſe; in grateful remembrance where<g ref="char:EOLhyphen"/>of they have cauſed his Picture, and this Inſcription to be here ſet up.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:64386:13"/>
+               <p>If I were to give a Title to this following Table, I humbly conceive it might be (not improperly) called
+<q>
+                     <hi>The Inſurance Office.</hi>
+                  </q>
+That the Heir may not ſooner prodigally waſte, than his Anceſtor frugally got the Eſtate.</p>
+               <q>
+                  <bibl>ΑΠΟΚΑΛΥΨΙΣ, ιδ. ιγ.</bibl>
+                  <note n="*" place="bottom">
+                     <hi>Rev. 14.13.</hi> They reſt from their Labours, and their Works do follow them.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+               <p>ALthough Good Works (or well-husbanding our Ta<g ref="char:EOLhyphen"/>lent, lent for Improvement) be not Meritorious; yet (in the Dialect of the Apoſtle) they are eſteemed the beſt Evidence of Faith, and Obedience, and remain a ſurviving Teſtimony of a Faithful Steward, when ſilent in his Grave.</p>
+               <p>And it is obſervable, that in all Ages, Honour and Eſtate have been moſt laſting in their Families, who have moſt a<g ref="char:EOLhyphen"/>bounded in Works of this Nature.</p>
+               <p>So that if it were modeſt to aſſign the Cauſe why ſo many great Eſtates have been ſooner wasted by a Prodigal Heir, than gotten by his Frugal Parent; we may (with humble ſubmiſſion) conclude it is from a defect in this great and neceſſary Duty, ſo generally Crown'd with a Bleſſing on Poſterity.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:64386:13"/>
+               <p>SIR <hi>JOHN CUTLER,</hi> Knight and Baronet, a Worthy Member of this Company, having Fined for Sheriff and Alderman, nigh forty years ſince, was choſen and held Maſter-Warden, <hi>Annis 1652/3.</hi> and did immediately after the dreadful Fire, <hi>Anno 1666.</hi> at his own proper charge, erect (out of its aſhes) the fair Pile of Building, now the great Parlour, and entertaining-Room over it, and again was choſen and held Maſter-Warden, <hi>Annis 1685/6.</hi> And alſo in kindneſs to the Company, <hi>Annis 1686/7.</hi> was Aſſiſtant, and <hi>Locum Tenens</hi> to the Right Honourable, their then Maſter-Warden: And this preſent year <hi>1688.</hi> in their greateſt Exigence, (when others, whoſe turn it was, de<g ref="char:EOLhyphen"/>clined them,) conſented to be choſen the fourth time their Maſter-Warden.</p>
+               <p>Under whoſe happy conduct, the Company's Revenue hath been ſettled, (as a most righteous Sanction,) to ſecure the due payment of their yearly Charities.</p>
+               <p>And the Members now reſtored to act in their ſeveral Ca<g ref="char:EOLhyphen"/>pacities, (according to their Seniority and Merit,) in order compleat the Company's Deliverance.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:64386:14"/>
+               <p>SIR <hi>JOHN MOORE,</hi> Knight and Alderman, and late Lord Mayor, a Member of this Company, at his own charge, repaired and beautifyed the Body of this Hall, <hi>Annis 1680/81.</hi> whoſe leading Example therein, gave ſuch encouragement to other Worthy Mem<g ref="char:EOLhyphen"/>bers, liberally to contribute towards enlarging and compleating it with additional Building, ſo as to make it the moſt Commodious Seat for the Chief Magiſtrate in this City; in grate<g ref="char:EOLhyphen"/>ful acknowledgement of whoſe kindneſs, the Company afterwards cauſed his Picture, and this Inſcription (as a Memorial thereof) to be here ſet up.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:64386:14"/>
+               <head>This HALL</head>
+               <p>BEing ſituate in the centre of the City, was deſigned and adapted for the Seat of the Chief Magiſtrate, at the ex<g ref="char:EOLhyphen"/>pence of <hi>4800</hi> l. in new Building and accommodations, added to the Body of the Hall, Kitchen, and Sir <hi>John Cutler</hi>'s Build<g ref="char:EOLhyphen"/>ing, on this Confidence, that as it is every way the moſt Com<g ref="char:EOLhyphen"/>modious Place for that Publick Uſe, and would yearly ſave the Lord Mayor ſo great and unavoidable Charge elſewhere, ſo it ſhould be conſidered accordingly, and in ſome proportion aug<g ref="char:EOLhyphen"/>ment the yearly Revenue of the Company, for ſupport and diſ<g ref="char:EOLhyphen"/>charge of their yearly Charities, and other incident charge of Repairs and Duties, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Annis 1679, and 1680.</hi>
+               </p>
+               <list>
+                  <item>Sir <hi>James Edwards,</hi> Alderman, and late Lord Mayor, Master-Wardens.</item>
+                  <item>
+                     <hi>John Beale,</hi> Warden.</item>
+                  <item>
+                     <hi>Thomas Bourne,</hi> Warden.</item>
+                  <item>
+                     <hi>William Buckeridge,</hi> Warden.</item>
+               </list>
+               <p>
+                  <hi>Annis 1680,</hi> and <hi>1681.</hi>
+               </p>
+               <list>
+                  <item>Sir <hi>Henry Tulſe,</hi> Alderman, and afterwards Lord Mayor, Maſter-Wardens.</item>
+                  <item>
+                     <hi>Ralph Box,</hi> Warden.</item>
+                  <item>
+                     <hi>William Winch,</hi> Warden.</item>
+                  <item>
+                     <hi>Roger Reeve,</hi> Warden.</item>
+               </list>
+            </div>
+            <div type="section">
+               <pb facs="tcp:64386:15"/>
+               <head>Juſtice and Charity Revived.</head>
+               <p>IN a most Righteous and Voluntary Settlement of the whole Revenue of the Company of <hi>Grocers,</hi> by Inquiſition, De<g ref="char:EOLhyphen"/>cree, and Coveyance, (in Trustees,) for ever to ſecure the due payment of the yearly Charities, appointed by their Donors and Benefactors.</p>
+               <p>
+                  <hi>Annis Domini 1686, 1687.</hi>
+               </p>
+               <list>
+                  <item>The Right Honourable Sir <hi>Thomas Chicheley,</hi> by Sir <hi>John Cutler,</hi> Knight and Baronet, and Sir <hi>John Moore,</hi> Knight, Maſter-Wardens.</item>
+                  <item>
+                     <hi>William Hart,</hi> Warden.</item>
+                  <item>
+                     <hi>Thomas Horton,</hi> Warden.</item>
+                  <item>
+                     <hi>Edward Sheerwood,</hi> Warden.</item>
+               </list>
+               <p>
+                  <hi>Annis Domini 1687, 1688.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Ralph Box,</hi> Eſq; Maſter-Wardens.</item>
+                  <item>
+                     <hi>John Banks,</hi> Warden.</item>
+                  <item>
+                     <hi>Stephen Coleman,</hi> Warden.</item>
+                  <item>
+                     <hi>Jonadab Balaam,</hi> Warden.</item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Edward Underhill,</hi> Eſq; Alderman, Maſter-Wardens.</item>
+                  <item>
+                     <hi>John Banks</hi> continued, Warden.</item>
+                  <item>
+                     <hi>Robert Knight,</hi> Warden.</item>
+                  <item>
+                     <hi>Francis Laſco,</hi> Warden.</item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Thomas Short,</hi> formerly Warden, aſſiſting therein.</item>
+                  <item>
+                     <hi>Samuel Brewſter,</hi> formerly Warden, aſſiſting therein.</item>
+               </list>
+               <p>All Glory be to GOD.</p>
+            </div>
+         </div>
+         <div type="exhortation">
+            <pb facs="tcp:64386:15"/>
+            <head>There are ſeveral other Charities (wherewith the growing Revenue of the <hi>Grocers</hi> will be charge<g ref="char:EOLhyphen"/>able) appointed by pious and well diſpoſed Per<g ref="char:EOLhyphen"/>ſons, who in like manner left ſeveral Summs of Money, which were laid out in improving the Company's Lands by Building, and conſumed by the ſame unhappy Fate; particularly,</head>
+            <p>FOR ſupport and relief of decayed Members, and their ſickly Families; as alſo for their Widows and Chil<g ref="char:EOLhyphen"/>dren in like diſtreſs.</p>
+            <p>For augmentation of maintenance for Godly Miniſters, where Livings are ſmall.</p>
+            <p>For encouragement and advancement of Maid-Ser<g ref="char:EOLhyphen"/>vants in Marriage, who have faithfully ſerved Members for a certain number of years.</p>
+            <p>And for defraying the charge of ſober Anniverſary Feſti<g ref="char:EOLhyphen"/>vals, in moderate Entertainment of the Members, to main<g ref="char:EOLhyphen"/>tain and encreaſe mutual Friendſhip, and Chriſtian Con<g ref="char:EOLhyphen"/>verſation in the Fraternity, as well in Eaſe, as for Encou<g ref="char:EOLhyphen"/>ragement of the Members who ſhould ſucceſſively hap<g ref="char:EOLhyphen"/>pen to be Stewards, whoſe Burthen is in the mean time made light by the preſent Ordinances, (whereby all other charge of Members is alſo made very eaſie,) to the end the Stewards and Members, who are to contribute towards the charge, may be as merry themſelves as their Gueſts, at thoſe Feſtivals.</p>
+            <p>
+               <pb facs="tcp:64386:16"/>All which are faithfully recorded, to take place, and be diſcharged out of the yearly Revenue of the Company, (which will be very great,) upon expiring Leaſes, (all decreed and ſettled, ſo as to be improved to the utmoſt,) to anſwer thoſe great Truſts ſo repoſed in the Members at the Helm, as being firſt ſo well deſigned by the Donors, and now again made Sacred for ſuch uſes.</p>
+            <p>And let <hi>Anathema</hi> be pronounced by every Faithful Member, againſt every one (and who can be now igno<g ref="char:EOLhyphen"/>rant, that is concerned as a Truſtee) that ſhall (know<g ref="char:EOLhyphen"/>ingly) attempt or endeavour to alien, take away to them<g ref="char:EOLhyphen"/>ſelves, or again miſapply the ſame.</p>
+            <p>And may the great Pilot of Hearts quicken and in<g ref="char:EOLhyphen"/>cline many others, (to whom God hath lent large Ta<g ref="char:EOLhyphen"/>lents,) from the Example of thoſe worthy Benefactors, whoſe Names are now here revived with a ſweet ſmelling ſavour, when their Bodies have ſo long peaceably ſlept in the duſt, to build on their Foundation, in chearfully con<g ref="char:EOLhyphen"/>tributing towards the ſupport and relief of ſuch numerous Objects of each kind, as the preſent Age affords, (in whom the voice of God calls aloud for it,) till ſuch help ſhall ariſe from the Holy Seed here ſown, for a better ſupply in a future Harveſt from thence.</p>
+            <p>There would need no motive to this Sacred Duty, would Men conſider that they are no Proprietors, but Stewards (in Truſt) of all they have; for which, as well as for what they leave of it to Poſterity, (without ſuch allowance as is here ſpoken of) they ſhall moſt aſſured<g ref="char:EOLhyphen"/>ly render a ſtrict Account.</p>
+            <p>
+               <pb facs="tcp:64386:16"/>And therefore the beſt and ſureſt way, to entail a Bleſſing on their Children and Poſterity, in what they leave them when they die, on like Truſt, to improve for the good of others, (for the property can never be al<g ref="char:EOLhyphen"/>tered,) is, by thus taking care, and liberally providing for the miſerable and helpleſs Members of their Maſters great Family.</p>
+            <p>And certainly, had many Men (eſpecially ſuch as made profeſſion of Religion) in their life-time, foreſeen how ſoon a Vicious Conſumption hath been made, by their Children or Succeſſors, of all they left them, for want of a better inſurance of it, by thus diſpoſing ſome conſide<g ref="char:EOLhyphen"/>rable part of their Lord's Eſtate, according to his own Will, they would (if it were to doe again) moſt willing<g ref="char:EOLhyphen"/>ly have diſpoſed of more to ſuch uſes as theſe.</p>
+            <p>And therefore, I hope ſuch as are convinced of this Truth, and have been Eye-Witneſſes of ſuch ſad effects in others, will begin in their life-time, and prevent the fraud or negligence (beſides other contingencies) at<g ref="char:EOLhyphen"/>tending their Executors, in diſpoſition of their Charities, when they are dead; for when their own Eyes are Over<g ref="char:EOLhyphen"/>ſeers of ſuch God-like diſpoſition, they may ſweetly taſte that Peace and Comfort in their own Boſoms, whilſt they live, which the World cannot give; and per<g ref="char:EOLhyphen"/>ſevering in their Chriſtian Duty, they ſhall thereby aſſuredly (though not meritoriouſly) treaſure up to them<g ref="char:EOLhyphen"/>ſelves Eternal Happineſs hereafter, <hi>Where neither Moth can Eat, nor Ruſt Corrupt, nor Thieves break through and Steal,</hi> and where they ſhall be for ever above all neceſſity of
+<pb facs="tcp:64386:17"/>
+aid from the fading Enjoyments of this World, when they ſhall be there entertained with a <hi>Well done Good and Faithful Servant, enter thou into the joy of thy Lord and Maſter:</hi> For moſt aſſuredly as the ſuccour and relief of the Hungry and Naked, the Aged and Impotent, do daily aſcend in ſilent Prayers to the Ears of the Om<g ref="char:EOLhyphen"/>niſcient Father of Mercies, and bring down (at leaſt) Temporal Bleſſings in this Life, on their Children and Poſterity, who thus, as Faithful Stewards, become their Patrons and Benefactors; as we may read to this pur<g ref="char:EOLhyphen"/>poſe, that <hi>Jehu</hi> (for the ſmall Good he did) ſwayed the Sceptre to the Fourth Generation: So moſt aſſuredly, the ſilent Sighs and Groans of the Widow and Orphans, the Aged, the Captive, and the Impotent, under op<g ref="char:EOLhyphen"/>preſſion, and in their Want and Miſery, do cry as loud in the Ears of the ſame righteous Judge, for Vengeance (in all the Curſes and Miſeries attending Mortality) on the Heads and Families, not only of all ſuch as either covet, defraud, take away from, or hinder thoſe poor Objects of their Right, their Portion or Relief, but alſo of ſuch as come ſhort in their Duty herein, according to their Power, Intereſt, and the opportunity they have, to ſhew it towards them; as they themſelves are appointed of God, but Stewards in Truſt, for thoſe poor Members of one Chriſtian Body.</p>
+         </div>
+         <div type="account">
+            <pb n="1" facs="tcp:64386:17"/>
+            <head>A ſhort Account of the Original of the <hi>GRO<g ref="char:EOLhyphen"/>CERS,</hi> and their firſt Incorporation: And their Condition, in their preſent Circumſtances, truly Repreſented.</head>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Grocers</hi> (inquit <hi>Minſhew</hi>) ab initio, ut ex legibus noſtris probat, nihil mi<g ref="char:EOLhyphen"/>nutim ſed omnia al <hi>groſſo, by the Great,</hi> Magnis ſc. ponderibus diven<g ref="char:EOLhyphen"/>dere ſoliti ſunt. In libro Statutorum noſtrorum ſignificat Mercatores, Qui aliquod mercium genus totum coe<g ref="char:EOLhyphen"/>munt. <hi>Skin. Etymologicon Linguae Anglicanae.</hi>
+               </note>THE word <hi>Grocers</hi> was a term at firſt diſtin<g ref="char:EOLhyphen"/>guiſhing Merchants of this Society,<note place="margin">Etymology of the Word <hi>Grocer.</hi>
+               </note> in oppoſition to Inferiour Retailers; for that they uſually ſold in groſs Quan<g ref="char:EOLhyphen"/>tities by great Weights. And in ſome of our old Books, the Word ſignifies Merchants, that in their Merchandizing dealt for the Whole of any Kind:<note place="margin">Which after he came more Extenſive.</note> But in after times the word <hi>Grocery</hi> be<g ref="char:EOLhyphen"/>came ſo extenſive, that it can now hardly be reſtrained to the certain kinds of Merchandizes they have formerly dealt in: For they have been the moſt Univerſal Merchants that traded abroad, and what they brought home, many Artiſts of this Society found out ways afterwards to change and alter the Species by Mixture, Confections, and Compoſitions of ſimple Ingredients; by which means many and various ways of Dealing and Trading paſſed under the Denomination of <hi>Groceries:</hi>
+               <note place="margin">They were the first Merchants trading abroad, and ſo pro<g ref="char:EOLhyphen"/>lifick, that other Companies have branched from them.</note> And indeed this City and Nation do in a great meaſure owe the Improvement of Navigation to Merchants, originally exerciſing this Myſtery, as Trading in<g ref="char:EOLhyphen"/>to all Foreign Parts, from whence we have received either Spices, Druggs, Fruits, Gums, or other rich Aromatick Com<g ref="char:EOLhyphen"/>modities. It is well known, this Company hath bred the moſt Eminent Merchants in this City, and this Society hath been ſo prolifick, that many other Societies have been branched out from hence, as will be owned by the moſt worthy of them.<note place="margin">Improved Navi<g ref="char:EOLhyphen"/>gation.</note> The Mer<g ref="char:EOLhyphen"/>chants Trading to the <hi>Levant</hi> Seas, and other Societies, have ori<g ref="char:EOLhyphen"/>ginally been the Off-ſpring of this Society, as appears by ancient Records of Indentures of Apprentices, to Members of this Compa<g ref="char:EOLhyphen"/>ny. And it is not inconſiſtent, and may eaſily be drawn within com<g ref="char:EOLhyphen"/>paſs of Belief, That there was amongſt the <hi>Romans</hi> a Society agree<g ref="char:EOLhyphen"/>able to this of the <hi>Grocers,</hi> who were alſo Merchants trading into thoſe Seas, as may be Collected from <hi>Perſius,</hi>
+               <note place="margin">Their Antiquity.</note> a Poet who wrote in <hi>Rome</hi> in the time of <hi>Auguſtus,</hi> deſcribing the various Inclinations
+<pb n="2" facs="tcp:64386:18"/>
+of Men in their Courſe of Life. He inſtances them in theſe Words, <hi>(viz.)</hi>
+            </p>
+            <q xml:lang="lat">
+               <lg>
+                  <l>Mercibus hic <hi>Italis</hi> mutat ſub ſole recenti</l>
+                  <l>Rugoſum piper, <hi>&amp;</hi> pallentis Grana Cymini. <bibl>
+                        <hi>Sat. 5.</hi>
+                     </bibl>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With Merchandizing this with Care doth run</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nto the Eaſt, under the riſing Sun,</l>
+                  <l>To fetch rough Pepper, and pale Cummin Seeds</l>
+                  <l>For <hi>Roman</hi> Wares, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <note place="margin">Firſt called Peppe<g ref="char:EOLhyphen"/>rers by way of Emi<g ref="char:EOLhyphen"/>nency for all Spices, as were ſuch like Merchants trading in <hi>Rome.</hi>
+               </note>Where Pepper, being the moſt Royal Preſervative Spice, is only mentioned by way of Eminency for all the reſt: And ſo we may well conclude, that this was the Reaſon why the Society of the <hi>Grocers</hi> (whoſe Original firſt here exerciſed, may modeſtly be ſuppoſed to ſpring from the <hi>Romans</hi>) were, long before they were Incorporated, diſtinguiſhed by the name of <hi>Pepperers,</hi> al<g ref="char:EOLhyphen"/>though they traded before in all other the former Merchandizes, as well as that. It is impoſſible to give any other Account of the Original of this Society here in this City, ſo long at firſt excer<g ref="char:EOLhyphen"/>ciſed under the Denomination of <hi>Pepperers;</hi> for that the City of <hi>London</hi> it ſelf, at firſt under the <hi>Britains,</hi> and ſucceſſively after under the <hi>Romans</hi> and <hi>Saxons,</hi> and at laſt was over-run by the <hi>Danes;</hi> no Hiſtory now remains to give a certain Account of the firſt Methods of Government therein, farther than what may be collected from ſome late Writers of our own now extant, who have tranſmitted to us, what they could then diſcover by their Enquiry and Search into Antiquity; whereby we may plainly un<g ref="char:EOLhyphen"/>derſtand that the firſt Model of Civil Government, ſettled in this City, was from the Exemplar of <hi>Rome</hi> it ſelf; as Mr. <hi>Stow</hi> in<g ref="char:EOLhyphen"/>ſtances in the very words of an ancient Writer, who wrote in the Reign of King <hi>Stephen,</hi>
+               <note place="margin">From whence <hi>Lon<g ref="char:EOLhyphen"/>don</hi> had its firſt Model of Civil Government.</note> (viz) <hi>This City</hi> (ſaith he) <hi>even as</hi> Rome, <hi>is divided into Wards, it hath yearly Sheriffs inſtead of Conſuls, it hath the Dignity of Senators, it hath <g ref="char:V">Ʋ</g>nder-Officers, and according to the Qualities of Laws, it hath ſeveral Courts and general Aſſemblies upon appointed days.</hi> Some time after the City obtained their Chief Magiſtrate to be under the Denomination of Mayor,<note place="margin">Firſt Lord Mayor in <hi>London.</hi>
+               </note> which was about the firſt year of King <hi>Richard</hi> the Firſt; the firſt Man we find advanced to that Dignity was <hi>Henry Fitz-Alwin,</hi> who continued therein 24 years ſucceſſively: And ſoon after (to wit) in the 17th. year of King <hi>Henry</hi> the Third,<note place="margin">Their firſt Member Mayor, <hi>Andrew Bockerell.</hi>
+               </note> it appears <hi>Andrew Bockerell,</hi> a Pepperer, was choſen Mayor; and ſo eminent were the
+<pb n="3" facs="tcp:64386:18"/>
+Pepperers in this Infancy of the Mayoralty,<note place="margin">Pepperers Eminent, and frequent Mayors.</note> that before the 36th. year of that King's Reign, a Pepperer had the Chair nine ſeveral years, and very frequently afterwards we find the Pepperers advanced to that Dignity: And it appears by ancient Books (now extant) That in the time of King <hi>Henry</hi> the Fourth, there were at one time no leſs then 12 of their Members Aldermen,<note place="margin">Twelve Aldermen at once Members.</note> of which Number were two Brothers, <hi>William Chicheley,</hi> afterwards Sheriff, Sir <hi>Robert Chicheley,</hi> afterwards alſo Sheriff,<note place="margin">Sir <hi>Robert Chicheley</hi> twice Lord Mayor, and Founder of <hi>Wal-Brook</hi> Church. Still in their Do<g ref="char:EOLhyphen"/>nation.</note> and twice Lord Mayor, who alſo was Founder of the Pariſh Church of St. <hi>Stephen Walbrook,</hi> upon a Plot of ground by him for that Sacred Uſe purchaſed of the <hi>Grocers,</hi> the Donation of which Church is at this day in the Company of <hi>Grocers.</hi> Which Society of the Peppe<g ref="char:EOLhyphen"/>rers increaſing, and ſpreading ſo Univerſal in Merchandizing, that it appears afterwards they were diſtinguiſhed by the Name of <hi>Gro<g ref="char:EOLhyphen"/>cers,</hi> (as being a more comprehenſive Name than Pepperers;<note place="margin">Afterwards called <hi>Grocers.</hi>
+               </note>) in<g ref="char:EOLhyphen"/>ſomuch that before they were incorporated by the Name of <hi>Grocers</hi> (to wit) in the Third year of King <hi>Edward</hi> the Third, <hi>Anno</hi> 1329. <hi>John Grantham</hi> was choſen and held Mayor by the Title of <hi>Grocer.</hi> And the firſt Charter I find of the Corporation of the <hi>Grocers,</hi> was granted by King <hi>Edward</hi> the Third, in the twentieth year of his Reign, <hi>Anno Dom.</hi> 1345. which appears to be long before the <hi>Mercers</hi> were incorporated,<note place="margin">Firſt Charter of the <hi>Grocers,</hi> and be<g ref="char:EOLhyphen"/>fore the <hi>Mercers.</hi>
+               </note> though they are now the only Com<g ref="char:EOLhyphen"/>pany have Precedency of the <hi>Grocers;</hi> yet for the Reaſons above<g ref="char:EOLhyphen"/>mentioned, it may be very well preſumed, that as the <hi>Grocers</hi> were long before them the moſt Eminent Society, ſo in after<g ref="char:EOLhyphen"/>times renewing their Charter by a more Comprehenſive Term,<note place="margin">Afterwards Post<g ref="char:EOLhyphen"/>poned to them.</note> they might Poſt pone themſelves.</p>
+            <p>But though they thus March as a forlorn Regiment in the Front, (might the Hopes and Endeavours of many good Members pre<g ref="char:EOLhyphen"/>vail to have the Spirit of our Anceſtors revived in the preſent Generation,) this could no way eclipſe the <hi>Grocers,</hi>
+               <note place="margin">But not to Dimi<g ref="char:EOLhyphen"/>nation of their Dignity.</note> who have all the Noble Army of the reſt of the Corporations following them, than the Morning Star uſhering in Day before it, can eclipſe the Glory of the Riſing Sun.</p>
+            <p>Afterwards the Charter of this Company was ſeveral times renewed; as alſo it was in the Seventh year of King <hi>Henry</hi> the Sixth, and they then made a Body Politick,<note place="margin">Grocers <hi>Incorpo<g ref="char:EOLhyphen"/>rate.</hi>
+               </note> by the Name of <hi>Cuſtodes &amp; Communitas Myſterii</hi> Groceriae Londini. And in the beginning of that King's Reign,<note place="margin">Purchaſe of the Hall of the Lord <hi>Fitz-water,</hi> men late his Manſion-Houſe.</note> they purchaſed the ground where the <hi>Grocers</hi> Hall now ſtands, with the ground belonging to it, of <hi>Walter</hi> Lord <hi>Fitz-water,</hi> a Noble Peer of this Realm,
+<pb n="4" facs="tcp:64386:19"/>
+bounding the ſame between the <hi>Old-Jewry</hi> and <hi>Walbrook.</hi> And ſo conſiderable in the City were the <hi>Grocers</hi> long before that time, that they may be well preſumed (time out of Mind) to have had the management of the King's-Beam, as an Office peculiar to them; not only as principally uſing the ſame, but as being ori<g ref="char:EOLhyphen"/>ginally veſted therein;<note place="margin">The Office of the King's Beam.</note> they having had all along (beyond the Memory of Man) the naming of the Weigh-Maſter, and the naming, placing, removing, and governing of the four Porters, attending that Office, all to be elected out of their own Com<g ref="char:EOLhyphen"/>pany, and to be Sworn at their own Hall; a Privilege allowed them, as their undoubted and inſeparate Right, as ancient as that Office it ſelf uſed in the City.</p>
+            <p>
+               <note place="margin">Their ancient Pri<g ref="char:EOLhyphen"/>vileges of Inſpection and Correction of Abuſes in their Myſtery.</note>Alſo amongſt other Privileges and ancient Uſages of this Com<g ref="char:EOLhyphen"/>pany, I find recorded, even as high as <hi>Edward</hi> the Fourth's days, this Company had Power of Inſpection and Correction of Abuſes and Irregularities of all Perſons (though free of this or any other Company) in the City or Suburbs, any way uſing or exerciſing any kind of <hi>Grocery;</hi> and alſo to aſſay the Weights they bought or ſold by; and to take notice of all their Defaults, and return them to be Fined at the Diſcretion of this Fellowſhip, and to take 4 <hi>d.</hi> of every Perſon for their Labour therein, as well of ſuch as were offending, as ſuch as were not; which Uſage was always continued: And in the Charter renewed to this Company in the fifteenth year of the late King <hi>Charles</hi> the Firſt, this Pri<g ref="char:EOLhyphen"/>vilege is Gonfirmed,<note place="margin">Confirmed and Ex<g ref="char:EOLhyphen"/>preſſed to extend <hi>3</hi> Miles from the Li<g ref="char:EOLhyphen"/>berties.</note> and expreſſed to extend three Miles from the City, as well within Liberties as without, and hath only been omitted for ſome years paſt, when the Company began to be firſt interrupted in their Affairs.</p>
+            <p>The ſame King <hi>Henry</hi> the Sixth, by Charter under the Great Seal, granted to this Company the Office of Garbling in all places throughout the Kingdom of <hi>England,</hi>
+               <note place="margin">Garbling-Office.</note> (the City of <hi>London</hi> only excepted;) which Privilege (though diſcontinued during the late unnatural War, and almoſt forgotten) is now ratified by their late Charter and Confirmation, and may be of conſiderable Ad<g ref="char:EOLhyphen"/>vantage to this Company.</p>
+            <p>In the time of the Reign of King <hi>Henry</hi> the Seventh, the Compa<g ref="char:EOLhyphen"/>ny was greatly indebted,<note place="margin">Sir <hi>Henry Keble,</hi> Sir <hi>William Lax<g ref="char:EOLhyphen"/>ton,</hi> Worthy Mem<g ref="char:EOLhyphen"/>bers and Bene<g ref="char:EOLhyphen"/>factors, both bu<g ref="char:EOLhyphen"/>ried in a Vault, in <hi>Aldermary</hi> Church. See <hi>Stow</hi>'s Survey.</note> and Sir <hi>Henry Keble,</hi> a Worthy Member, (ſometime Lord Mayor of this City,) lent them Money on their Hall, and their Revenue, (nigh the full value,) to clear their Debts, and afterwards, in the beginning of the Reign of King <hi>Henry</hi> the Eighth, by his laſt Will and Teſtament, freely gave back all to the Company, remitting his whole Debt and Intereſt: This Sir <hi>Henry Keble,</hi> at his own Charge, built <hi>Aldermary</hi> Church. Afterwards,
+<pb n="5" facs="tcp:64386:19"/>
+about the eighteenth year of the ſame King <hi>Henry</hi> the Eighth, Sir <hi>William Laxton</hi> alſo, a Worthy Member, (and ſometime Lord Mayor,) by Deed executed in his Life time, gave the Company, all their Lands and Houſes in <hi>Canning-Street,</hi> and the Lanes there<g ref="char:EOLhyphen"/>unto adjoining.</p>
+            <p>I ſhall here add but one more, (who may well deſerve to be re<g ref="char:EOLhyphen"/>corded among their chief Benefactors,) Mr. <hi>John Bilſdon,</hi>
+               <note place="margin">
+                  <hi>John Bilſdon,</hi> a Worthy benefactor of Houſes in <hi>Corn<g ref="char:EOLhyphen"/>hill.</hi>
+               </note> a worthy Member, by his Will, dated about the fourteenth of King <hi>Henry</hi> the Eighth, gave this Company all his Meſſuages in the ſeveral Pariſhes of St. <hi>Michael</hi>'s, and St. <hi>Peter</hi>'s in <hi>Cornhill,</hi> which being conſumed (with the reſt of their Revenue in <hi>London</hi>) by the late dreadful Fire, many very fair Houſes have been ſince built on the ſame ground, by the Companies Leaſſees, on long Leaſes, under ſmall Rents, but of great improvement when expired.</p>
+            <p>Upon part of which ground ſtood the late Weigh houſe,<note place="margin">Weigh-Houſe.</note> where the Office of the King's Beam was kept, until the time of the ſame Fire.</p>
+            <p>And in order to prevent any difference, which might other<g ref="char:EOLhyphen"/>wiſe hereafter happen, between the City and Company, touching the intereſt of the City in Weigh-houſe-yard, I humbly conceive it to be my duty herein to inſert (in the beſt manner I can) the Truth of the Caſe, eſpecially ſince upon ſearch I could find no certain footſteps of it in their own Books at <hi>Guild-Hall,</hi> which occaſioned ſome difficulty in ſettling the draught of the Leaſe (hereafter mentioned) from the Company to the City: The City claiming Intereſt in the ſoil of the Weigh-houſe-yard, upon ſome ſurmiſe that they had more ground there (than what they claimed under the Company's Title) belonging to them, until I had made the contrary appear, (both by Evidence, and Certificate of the ancient Inhabitants there;) as alſo, that as well all the ground ſo demiſed by the Company to the City, as that whereon the Houſes on all parts of the Weigh houſe-yard are built, (being bounded on the North with the ground of the <hi>Merchant-Taylors,</hi> and fronting the High Street of <hi>Cornhill,</hi>) is part of that ground ſo deviſed by Mr. <hi>John Bilſdon</hi> to the Com<g ref="char:EOLhyphen"/>pany of <hi>Grocers.</hi>
+            </p>
+            <p>So as all the Intereſt the City hath there, appears to be thus, <hi>viz.</hi> The <hi>Grocers</hi> having (as above is mentioned) the management of the Office of the King's Beam, did former<g ref="char:EOLhyphen"/>ly accommodate the City with a Weigh-houſe there,<note place="margin">How the City have Intereſt in the Meſſuage in Weigh-Houſe-Yard.</note> conve<g ref="char:EOLhyphen"/>nient for executing the ſame Office, under ſome reſerved Rent, for that the whole duty ariſing thereby (the Weigh-Maſter and Porters Wages deducted) belonged to the City, until
+<pb n="6" facs="tcp:64386:20"/>
+the year 1625. ſome difference happening between the then Lord Mayor and the Company, touching the Nomination of one to ſucceed the Weigh-Maſter, then lately Dead; a Committee of Aldermen was appointed for the City, and a Committee of <hi>Gro<g ref="char:EOLhyphen"/>cers</hi> for the Company, who determined the ſame; and the Company, purſuant to that Agreement, were to grant the City a Leaſe of their Weigh-houſe, being one great lower room, for 99 years, under the Rent of 10 <hi>l. per annum,</hi> which the City ac<g ref="char:EOLhyphen"/>cordingly had and enjoyed, and the Company to enjoy their Privileges, ſo to nominate the Weigh-Maſter and Por<g ref="char:EOLhyphen"/>ters.</p>
+            <p>The Company afterwards granting a Leaſe to one <hi>Lyonell Newman,</hi> of a ſmall Ware-houſe at one end of the ſame Weigh-houſe, and of all the Rooms as well over the Weigh-houſe, as over the ſame Ware-houſe, for a long term, at 40 <hi>s. per annum,</hi> the City afterwards purchaſed the ſaid <hi>Lyonell Newman</hi>'s Intereſt; and the whole being ſo conſumed by the Fire, upon application of the City to the Judges at <hi>Clifford</hi> s-Inn,<note place="margin">The Judges decree a Leaſe to the City of it.</note> and on hearing the City and Company, they Decreed, the Company (for encouragement of the City to build) ſhould grant the City a Leaſe of the whole, with additional years, under the entire Rent of 12 <hi>l. per annum,</hi> which is drawn and prepared accordingly, being one Meſſuage erected by the City, on the ground whereon the Weigh-houſe and Ware-houſe ſtood, and now in the occupation of Mr. <hi>Williams</hi> the Leaſſee of the City.</p>
+            <p>
+               <note place="margin">The other part of the Company's Re<g ref="char:EOLhyphen"/>venue, and the ſeve<g ref="char:EOLhyphen"/>ral Charities and <g ref="char:V">Ʋ</g>ſes wherewith the w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le and every branch are charged: As alſo the Schools and Eccleſiaſtical Promotions in their gifts digeſted in Books at the Hall.</note>The other branches of the Company's Revenue, together with the ſeveral Charities and Uſes wherewith as well Sir <hi>Henry Keble,</hi> Sir <hi>William Laxton,</hi> and Mr. <hi>Bilſdon</hi>'s, as alſo every other branch thereof are charged, as alſo the ſeveral Schools, and Ec<g ref="char:EOLhyphen"/>cleſiaſtical Promotions, in the Company's diſpoſition, and under their Government and Inſpection, I have digeſted into an orderly Method (as moſt proper there to be ſeen) in Books for that pur<g ref="char:EOLhyphen"/>poſe provided at the Hall.</p>
+            <p>Thus this Company long flouriſhed both before and after that time, with many Eminent and Worthy Members, who became very liberal Benefactors, and had ſo great a ſhare all along in the Senators of this famous City,<note place="margin">Had always an Alderman their Master. Intruſted with ma<g ref="char:EOLhyphen"/>ny Charities; which they faith<g ref="char:EOLhyphen"/>fully diſcharged, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Fire Con<g ref="char:EOLhyphen"/>ſumed their Re<g ref="char:EOLhyphen"/>venue.</note> that they never wanted an Alder<g ref="char:EOLhyphen"/>man of their Members yearly to ſucceed Maſter-Warden of this Company; and ſo faithfully did they acquit themſelves of thoſe Charities they were intruſted withal, that it gave them the greateſt Reputation of any Company in <hi>London:</hi> Inſomuch that many well-diſpoſed Perſons, did covet to make this Corporation as it were the <hi>Corban</hi> of their Charities, which in proceſs of
+<pb n="7" facs="tcp:64386:20"/>
+time became their Snare, as in this Diſcourſe will immediately appear; wherein I ſhall endeavour, by giving a true account of the Nature of thoſe Charities, to remove the reproach that hath been caſt on this Company, as if they had miſ-imployed them; and make it plainly appear, that the Company of <hi>Grocers</hi> have, in the Judgment of every impartial Man, (who ſhall well weigh their Circumſtances from the firſt to the laſt,) acquitted themſelves in all the Truſt and Affairs of this Company, as becomes Worthy Citizens, and beyond what the worſt of their Detractors might have juſtly expected from them; eſpecially conſidering how ſmall a part of their yearly Revenue remained to the Company, when the Yearly Payments iſſuing thereout, purſuant to the Diſpoſition of the Donors, are deducted.</p>
+            <p>MOST part of all the Land and Houſes,<note place="margin">Though charged with nigh the va<g ref="char:EOLhyphen"/>lue, and ſo rather charge than benefit to them.</note> given to the <hi>Grocers</hi> Company, were by the Donors charged with yearly Charities, iſſuing thereout to certain Uſes, by them limited and appointed, well nigh amounting to as much as the Rent reſerved upon long Leaſes in being, and Let before they contracted any of their Debts, as is hereafter mentioned; all or moſt part of which lay in the City of <hi>London,</hi> and the ſame Leaſes many of them were nigh expiring about the time of the late dreadful Fire.</p>
+            <p>Thoſe other Charities, which were Summs of Money,<note place="margin">In regard many of them were Summs of Money, left them to pay yearly Cha<g ref="char:EOLhyphen"/>rities.</note> given by ſeveral Benefactors unto this Company, (there to remain as a Fund,) who charged this Company on that account with yearly payments to certain Pariſhes, Places, and Uſes, well nigh as much as the full Intereſt thereof amounted to, or very ſmall advantage to the Company, over and above the ſame, ſo that the Company were ne<g ref="char:EOLhyphen"/>ceſſitated to diſpoſe of thoſe Summs of Money at Intereſt; on the beſt Securities they could get,<note place="margin">Which being put out on Securities, many proved bad.</note> to enable them to make good thoſe yearly Charities; many of which Secu<g ref="char:EOLhyphen"/>rities might in all probability become very backwards in payment, and ſometimes quite Deſperate; ſo that the Company having daily Money preſſed upon them, were inforced to accept the ſame at Intereſt, and thereout con<g ref="char:EOLhyphen"/>tinued conſtant payment of thoſe yearly Summs; and al<g ref="char:EOLhyphen"/>ſo
+<pb n="8" facs="tcp:64386:21"/>
+to accommodate Young Men of their Members with Money, on Security, to ſet up, purſuant to the Wills of ſeveral Donors of that kind, (whereof they had not a few Benefactors,) ſo that in time, by occaſion of many Loſſes and Caſualties of this Nature,<note place="margin">And ſo loſs ac<g ref="char:EOLhyphen"/>crewed to them.</note> it cannot be imagined but the Company muſt ſuſtain much damage, notwithſtanding all their Care and Endeavours, though they were not in the leaſt ſenſible thereof, till they had long after, under greater preſſure, tryed their Securities, their Credit being very High, and in great Reputation.</p>
+            <div type="part">
+               <head>But their Great Debts they Contracted as followeth, <hi>viz.</hi>
+               </head>
+               <p>
+                  <note place="margin">Their great Debts Contracted by Mo<g ref="char:EOLhyphen"/>ney borrowed on their Common Seal, <hi>viz. Anno 1640.</hi> To Accommodate <hi>K. Char.</hi> I. <hi>4500 l.</hi>
+                  </note>ABout the Year 1640. his late Majeſty, King <hi>Charles,</hi> the Royal Martyr, having Occaſion for Money in his Exi<g ref="char:EOLhyphen"/>gencies, and making his Condition and Deſires known to this Company, as well as others, they did take up Money upon their Common Seal, and to ſupply him did, on Security of ſome of his Peers, accommodate his ſaid Majeſty with 4500 <hi>l,</hi> which (the unhappy War Succeeding) is yet unpaid,</p>
+               <p>
+                  <note place="margin">To relieve his ſaid late Majeſty's di<g ref="char:EOLhyphen"/>ſtreſſed Subjects in <hi>Ireland,—9000 l.</hi>
+                  </note>Afterwards, about the year 1642. this Company in Compli<g ref="char:EOLhyphen"/>ance with other Corporations, and indeed with the whole City, were again required to raiſe 9000 <hi>l.</hi> for the Defence of the King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> and Relief of his ſaid then Majeſty's di<g ref="char:EOLhyphen"/>ſtreſſed Subjects there, which they likewiſe took up upon Security of their Commnn Seal, and which was never repaid.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Anno 1643.</hi> Com<g ref="char:EOLhyphen"/>pelled to lend the City of <hi>London, — 4500 l.</hi>
+                  </note>And afterwards, in the year 1643, in Compliance with other Companies, they were compelled to lend the City of <hi>London,</hi> 4500 <hi>l.</hi> which they in like manner advanced, and had the Common Seal of the City for Security thereof; ſome ſmall part whereof they afterwards received, the reſidue is yet unpaid.</p>
+               <p>
+                  <hi>Theſe great Loans</hi> were the only Means that brought this Com<g ref="char:EOLhyphen"/>pany at laſt into ſuch Extremity; yet did they appear to be ſo
+<pb n="9" facs="tcp:64386:21"/>
+juſt in their Intentions amongſt themſelves,<note place="margin">They made a By-Law to levy that Money ſo raiſed on themſelves, if their Stock fell ſhort.</note> that having ſo taken up theſe great Summs of Money upon their Common Seal, of ſeve<g ref="char:EOLhyphen"/>ral Perſons at Intereſt, they made a By-Law, in their Court of Aſſiſtants, to levy the ſame by Aſſeſſment upon themſelves, and their Members, in caſe their Stock and Eſtate fell ſhort to pay it.</p>
+               <p>And afterwards from year to year,<note place="margin">All which conti<g ref="char:EOLhyphen"/>nued on Intereſt, duely paid by them.</note> as their Creditors call'd for their Principal, (conſtantly paying the Intereſt as it became due,) they took up other Moneys (which was daily offered to the Company) and paid them off.</p>
+               <p>About the year 1661, The Company having ſuſtained many loſſes, and their Debts (naturally) every year increaſing,<note place="margin">But deſpairing to receive either Prin<g ref="char:EOLhyphen"/>cipal or Interest.</note> (they receiving no Intereſt of any, to whom they themſelves had ſo lent, and deſpairing of the Principal, and upon Audit of the Wardens Accounts, finding ſuch prodigious Summs every year ſwallowed up in diſcharge of Intereſt,<note place="margin">And their Debts every year ſwelling, they call a Court in <hi>1662.</hi> and appoin<g ref="char:EOLhyphen"/>ted a Commitee to conſider of means to diſcharge it.</note>) ſeveral of the Members taking the Company's condition into conſideration, moved the Court of Aſſiſtants, and a Committee was appointed to inſpect the ſame; and to conſider of ſome way how to obviate the farther encreaſe of the Company's Debts, by diſcharging them gradually; but (other Matters intervening) no progreſs was made therein, till afterwards, about the Month of <hi>Auguſt,</hi> 1663.<note place="margin">Again the like in <hi>1663.</hi>
+                  </note> upon the like occaſion they were reminded thereof, and the Committee re<g ref="char:EOLhyphen"/>vived, and the farther conſideration reſumed; but having ſpent ſome time in conſidering which way to advance Money: The fair Proſpect they had of advancing Money within a few years, by renewing Leaſes of their Eſtates in <hi>London,</hi>
+                  <note place="margin">But the proſpect of Fines on renewing Leaſes (then nigh expiring) reſpited that Conſideration till the Fire in <hi>1666.</hi> conſumed all.</note> to diſcharge the greateſt part of their Debts; and having Monies daily preſſed on them to ſupply their occaſions on Security of their Common Seal, they were not haſty to propoſe the renewing of their Leaſes, many of them judging it for the Company's Advantage to defer that for ſome time longer, and to endeavour to get in their own Debts: In which circumſtances they continued, till ſoon after, and before they had renewed any Leaſes, it pleaſed God the late dreadful Fire happened, <hi>Anno</hi> 1666. whereby not only their Hall, but their whole Revenue in <hi>London</hi> (ſo highly improvable upon expiring Leaſes) was conſumed; and the ſeveral Mem<g ref="char:EOLhyphen"/>bers then at the Helm, who (moſt of them greatly ſuffered in their own private capacities) were ſeparated, and ſo taken up with care of diſpoſing of themſelves and Families, that very few could attend the Affairs of the Company; and ſo that dread<g ref="char:EOLhyphen"/>ful Calamity rendred this Company (which ſuſtained ſo great damage therein) uncapable to comply any longer with due payment
+<pb n="10" facs="tcp:64386:22"/>
+of their Debts and Charities;<note place="margin">Till which time the Books make appear they juſtly complied with their truſt in all things.</note> which plainly appears by the War<g ref="char:EOLhyphen"/>dens Books to have been all along before that time punctually paid and diſcharged, as they grew due, and were from time to time call'd for and demanded.</p>
+               <p>
+                  <note place="margin">The Fire having con<g ref="char:EOLhyphen"/>ſumed their whole Revenue in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> in which their Hopes depend<g ref="char:EOLhyphen"/>ed, to raiſe great Summs by renewing Leaſes, then well nigh expired, to pay off their Debts, they applied them<g ref="char:EOLhyphen"/>ſelves to the Parlia<g ref="char:EOLhyphen"/>ment on the ſaid By-Law, to aſſeſs their Members, (having before <hi>66,</hi> paid <hi>30000 l.</hi> for Intereſt of <hi>18000 l.</hi> they ſo took up;) but the Parliament reject<g ref="char:EOLhyphen"/>ing it, (as binding no more than were parties,) they were forced to let their Ground to Builders on long Leaſes, and ſmall Rents: And prepounded to raiſe by Benevolence what they could not by Fines, and to that purpoſe, to get Subſcriptions of Members.</note>But as ſoon (after the Fire) as the Members could have free<g ref="char:EOLhyphen"/>dom from their own diſtracting Affairs, they took the Com<g ref="char:EOLhyphen"/>pany's deplorable condition into their conſideration, and found they had no refuge now left, but to propoſe their Ground to Builders for long Leaſes, and thereby advance what Monies they could by way of Fines: And that they might leave nothing unat<g ref="char:EOLhyphen"/>tempted, their Stock and Eſtate (by theſe Providences) falling ſhort, to pay thoſe great Debts ſo contracted, they applied themſelves (on their ſaid By-Law) to the Parliament then ſit<g ref="char:EOLhyphen"/>ting, ſtating their Caſe, how great Debts they owed, and how they became ſo indebted, on the before-mentioned Securities, which were now never like to be repaid; and that although they had received no Intereſt, yet they had before that time paid for In<g ref="char:EOLhyphen"/>tereſt of the Monies (they had ſo taken up) nigh 30000 <hi>l.</hi> and therefore pray'd an Act of Parliament to put their ſaid By-Law in Execution, by Aſſeſſment on their Members; but that was re<g ref="char:EOLhyphen"/>jected as Impracticable, that it ſhould bind any more than thoſe who were Parties to the making of it, who were then moſt of them dead. Whereupon (as the only means then left) they endeavoured to raiſe Money by letting their Ground; and what ſhould fall ſhort therein, they propounded to make up among themſelves by a Voluntary Subſcription of their Members.</p>
+               <p>And to Encourage them in ſo Good a Work, Sir <hi>JOHN CUTLER,</hi> a Worthy Member, at his own proper Charges,<note place="margin">Sir <hi>John Cutler,</hi> to encourage them therein, Erected the Stately Building in the Garden.</note> erected the ſtately Fa<g ref="char:EOLhyphen"/>brick out of its Aſhes, which is now their Parlour, and Entertaining-Room over it, in the Garden, that they might the more comfortably meet to conſult and debate their Affairs in it, as in their own Council Chamber; ſhewing himſelf Zea<g ref="char:EOLhyphen"/>lous, beyond all Expreſſion, to raiſe and reſtore this Company out of its Ruines and Calamity.</p>
+               <p>
+                  <pb n="11" facs="tcp:64386:22"/>To whoſe Memory the Company (as ſoon as they had afterwards Re-built and Enlarged their Hall) in grateful acknowledgment,<note place="margin">To whoſe Memory (after the Hall was built) they cauſed his Statue to be erected in the Parlour.</note> cauſed his Statue, in white Marble, to be erected on the Right-Hand, at the upper end of the Parlour: And that the ſame may ſurvive the Caſual Acci<g ref="char:EOLhyphen"/>dents of Fire, and Canker of Envy, my Deſire is hereby to Record the Memory of ſo Worthy a Benefactor, that when Time,<note place="margin">Marmora Maeonii vincunt Monumenta libelli.</note> the Devourer of all things, ſhall have decayed his Statue, his Name may be hereby freſh and flouriſhing, amongſt the Generations to come, who ſhall ſucceed happy Members of this Society.</p>
+               <p>And to carry on ſo good a Beginning, a general Summons was ordered of the Members,<note place="margin">They continue En<g ref="char:EOLhyphen"/>deavours to raiſe Money by Sub<g ref="char:EOLhyphen"/>ſcriptions.</note> and a Committee appointed to obtain Subſcriptions, (wherein a good Progreſs was made,) and their ground propounded to Builders, for what Fines they could get under the old Rents, (which they could not much leſſen, in regard of their Charities iſſuing thereout, wherewith their Donors charged them,) in order to advance Money; which accordingly was done, and ſeveral Meetings had with their Creditors, to whom they propoſed to pay their Principal Money, part down,<note place="margin">And prepoſe to pay their Creditors, part down, and the other by two payments at <hi>5</hi> and <hi>10</hi> years, and great Summs are raiſed and paid.</note> and the Reſidue by two Payments, five and ten years, to be ſecured by their Common Seal; moſt of their Creditors complying there<g ref="char:EOLhyphen"/>with, for that it was to be raiſed by voluntary Gift of the Mem<g ref="char:EOLhyphen"/>bers, who many of them liberally contributed; and great Summs were raiſed and paid, and the Company in a hopeful way of wholly diſcharging themſelves; but the unkindneſs of ſome, and backwardneſs of other Members,<note place="margin">But ſome Members backwardneſs, and ſome Creditors (ill adviſed) ſue the Company, which ſteps the Work, till many Members, who might have been good Bene<g ref="char:EOLhyphen"/>factors, dyed.</note> who ſhould have followed ſo good Examples, gave ſuch Interruption as occaſioned ſome of their Creditors, unadviſedly, to ſue the Company, and the very Ruines of their Hall to be ſequeſtred and ſeized; although thoſe Creditors were afterwards ſenſible they had not only put them<g ref="char:EOLhyphen"/>ſelves to great Charges, (which they could never be re-imburſed,) but had thereby injured the reſt of the Creditors, in diſcouraging ſo good a deſign, and obſtructing the gifts of ſo many Worthy
+<pb n="12" facs="tcp:64386:23"/>
+Members, of whom ſeveral afterwards dyed, before their help could be again ſeaſonably ſought for, which wholly Eclipſed the Reputation of the Company, rendring them (for the preſent) uncapable of farther paying: But ſoon after it pleaſed God to ſtir up ſeveral Worthy Members, who (continuing their Endeavours to carry on ſo good a Work begun) procured Money to be raiſed on Security of their Revenue,<note place="margin">Yet they uſed all means poſſible to raiſe Money, letting their Land in <hi>Ireland,</hi> and ſinking the Rent to <hi>10 l. per Annum,</hi> and diſcharged ſuch Creditors by that, and their own Benevolence, as ſtood in moſt need; and part to many others.</note> to diſcharge thoſe Sequeſtrations, and by letting their Lands in <hi>Ireland,</hi> ſinking the Rent to 10 <hi>l. per Annum;</hi> and by Benevolences and Gifts of their Members, paid off a good part of their Debts; and to ſupply what they could not otherways, for the preſent advance they took up Money upon Security of the Equity of redemption of their whole Eſtate; whereby, it plainly appears, they uſed all Ways and Means to preſerve their Hall, and Ground-rent, as a Seed for their Poſte<g ref="char:EOLhyphen"/>rity; they having already paid, of their own Benevolence, and what they have ſo borrowed on Security of the remaining part of their Eſtate, far above the real value (to be ſold) of what they receive thereout, over and above the yearly Charities, where<g ref="char:EOLhyphen"/>with the ſame are charged by the Donours: However, the Work went on but ſlowly;<note place="margin">
+                     <p>But their Hall (be<g ref="char:EOLhyphen"/>ing in Ruines) was Sequeſtred by Cre<g ref="char:EOLhyphen"/>ditors, which wholly diſcouraged both Freemen and Ap<g ref="char:EOLhyphen"/>prentices, they con<g ref="char:EOLhyphen"/>tinue after to bor<g ref="char:EOLhyphen"/>row money on their Revenue, and had Sequeſtration aſſigned.</p>
+                     <p>All which not<g ref="char:EOLhyphen"/>withſtanding diſ<g ref="char:EOLhyphen"/>couraged particu<g ref="char:EOLhyphen"/>lar Members far<g ref="char:EOLhyphen"/>ther to contribute (whilſt under ſuch Circumſtances.)</p>
+                  </note> the generality of the Members, that ſhould have now contributed their Aſſiſtance to diſcharge the Whole, being unſatisfied, as looking on the Gifts of ſome par<g ref="char:EOLhyphen"/>ticular Perſons, would ſignifie little towards ſo great a Work, un<g ref="char:EOLhyphen"/>leſs ſome better Encouragement might be given; as being of Opinion, That ſo long as the Hall lay thus Ruinous, it would be a vain thing to attempt it. And under theſe ſad circumſtances the Company continued till the year 1680. when Sir <hi>John Moore,</hi> (a Worthy Member) taking into his conſideration its deplo<g ref="char:EOLhyphen"/>rable condition, every year leſſening in Reputation, by reaſon of their Hall thus in Ruines, which not only diſcouraged Men to take their Freedoms, and Apprentices to be bound there, and Bene<g ref="char:EOLhyphen"/>factors from their Liberality, but alſo rendred the Society almoſt contemptible;) he was therefore very inclinable, at his own charge,<note place="margin">Till Sir <hi>John Moore, Anno 1680.</hi> begun, and other Worthy Mem<g ref="char:EOLhyphen"/>bers followed, to rebuild and enlarge the Hall, as the only means to re<g ref="char:EOLhyphen"/>move their Re<g ref="char:EOLhyphen"/>proach, and to encourage Bene<g ref="char:EOLhyphen"/>factors Free<g ref="char:EOLhyphen"/>men, and Appren<g ref="char:EOLhyphen"/>tices, to preſerve a Succeſſion,</note> to repair the Great Hall, thereby to encourage other Members, by his Example, to contribute their Aſſiſtance, to re-edifie and augment it, ſo as to make it the moſt Commodious Seat, for the Chief Magiſtrate, in this City, as the only means to preſerve a ſucceſſion of Members in this Company, which being made known by Sir <hi>James Edwards</hi> (then Maſter) in a Court of Aſſiſtants, it was referred to the Wardens, together (with ſome other Members) to conſider of, and propound a Model for ſuch additional Building, as might make the Hall Commodious, both for Ornament and Uſe, to anſwer ſo Noble a Deſign: Upon
+<pb n="13" facs="tcp:64386:23"/>
+Report of which Committee, ſoon after Sir <hi>John Frederick,</hi> Sir <hi>James Edwards,</hi> and ſeveral other Aldermen and Worthy Members, agreed to contribute liberally towards ſo good a Work, as being fully convinced, that if the Hall ſhould long con<g ref="char:EOLhyphen"/>tinue under theſe circumſtances, not only all that had been done would be wholly fruitleſs,<note place="margin">As the only means to preſerve the Company.</note> but all that remained (for which they were Truſtees to the Generations to come) would ſoon waſte into nothing, which would reproachfully render the preſent Members moſt ungrateful to their Anceſtors, whoſe Names ſtill bloſſom in what remains of thoſe Pious Monuments of their Cha<g ref="char:EOLhyphen"/>rities, and obnoxious to thoſe who ſhould ſucceed happy Mem<g ref="char:EOLhyphen"/>bers of this Society.</p>
+               <p>And therefore concluded this great Work to be the only leading Means left to preſerve the Society;<note place="margin">Not doubting but their Brethren would all follow ſo good Examples to finiſh this Work and pay their Debts.</note> and that as Sir <hi>John Cutler</hi> had ſo long before for thoſe very ends, at his own Charges begun, and Sir <hi>John Moore</hi> had now undertaken to repair and beautifie the great Hall; ſo they held themſelves highly obliged to pro<g ref="char:EOLhyphen"/>mote and carry on ſo excellent a Work; and having cauſed the Scite, and Fabrick of the Hall to be ſurveyed, and finding, that with ſome more additional Building, (then already pro<g ref="char:EOLhyphen"/>pounded to be erected,) it might be made a more commodious and convenient Habitation for the Chief Magiſtrate, than any other ever was before, within the City of <hi>London;</hi> therefore, that it might anſwer all theſe good Ends, and might with all poſſible ſpeed be carried on and finiſhed, in order to invite and en<g ref="char:EOLhyphen"/>courage all the Members to contribute towards payment of the Company's Debts, and Arrears of Charities, (wherein Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Hooker,</hi> then one of the ſitting Aldermen,<note place="margin">And that it may anſwer the deſign'd end, the Hall and whole Revenue (being all deſigned for Charity) is by Conveyance and Decree ſettled to ſecure their yearly Charities, where<g ref="char:EOLhyphen"/>with the Company is chargeable.</note> and late Lord Mayor, and many other Worthy Members, had liberally con<g ref="char:EOLhyphen"/>tributed, as good Examples,) they liberally ſubſcribed and paid towards the raiſing and finiſhing of ſuch additional Building, declaring themſelves (if occaſion ſhould be afterwards) to be far<g ref="char:EOLhyphen"/>ther aſſiſting to compleat ſo good a Work; not doubting but their Brethren, the reſt of the Members, would every one follow, ac<g ref="char:EOLhyphen"/>cording to their Degrees and Qualities.</p>
+               <p>And that the beautifying and repairing their Hall might not prove a Bait to ſuch Creditors (if any ſhould be) as formerly ſeized the Ruines of the ſame, to endeavour again a Sequeſtration againſt it; but might anſwer thoſe good Ends ſo by them deſigned: The Company, by advice of Learned Counſel, after an Inquiſition taken before the Commiſſioners for Charitable Uſes, and purſuant to a Decree made by thoſe Commiſſioners, have conveyed the ſame, and all their Revenue, and the Equity of Redemption
+<pb n="14" facs="tcp:64386:24"/>
+thereof, (ſubject to the ſaid former Securities) to Truſtees, to ſe<g ref="char:EOLhyphen"/>cure the yearly payment, not only of thoſe Charities wherewith that Revenue is charged by the Donors; but alſo with the over<g ref="char:EOLhyphen"/>plus, (as the ſame will extend) thoſe other yearly Charities, payable by the Company to ſeveral Places, Perſons, and Uſes, by the ap<g ref="char:EOLhyphen"/>pointment of other Benefactors, who heretofore paid into their hands ſeveral great Sums of Money for thoſe Uſes, (for which now no Fond remains,) that they might alſo thereby not only diſcharge their Conſciences towards God, and the Memory of ſuch Pious Benefactors, but alſo avoid the chargeable Proſecutions of the Commiſſioners upon the Statute for Charitable Uſes, who have of late put this Company every year to exceeding great Charges and Expences.</p>
+               <p>
+                  <note place="margin">The Company's Caſe thus ſtated, having been ſet forth by way of Anſwer to Bills exhibited a<g ref="char:EOLhyphen"/>gainſt them by Creditors, gave ſatisfaction, ſo as to prevent others from troubling them in vain.</note>Thus have I endeavoured to lay down the true State of the Company of <hi>Grocers,</hi> as it relates to themſelves and their Credi<g ref="char:EOLhyphen"/>tors, in their preſent condition; the Subſtance whereof having been declared by way of Anſwer to ſeveral Creditors Bills, (who to no purpoſe had put themſelves to Charge in Suing the Com<g ref="char:EOLhyphen"/>pany,) ſeemed to give great Satisfaction unto the Learned Coun<g ref="char:EOLhyphen"/>cil, and other Perſons unconcerned, who before were ignorant of the true State of the Company's Caſe; and may happily be a means to divert others from a fruitleſs proſecution of any ſuch chargeable Suits againſt the Company,<note place="margin">As alſo the Com<g ref="char:EOLhyphen"/>miſſioners for cha<g ref="char:EOLhyphen"/>ritable uſes, when they underſtood their Caſe, adviſed their Creditors to deſiſt, and nor waſte their Pariſh-Stock in a vain proſe<g ref="char:EOLhyphen"/>cution, and to ap<g ref="char:EOLhyphen"/>ply themſelves to the Wardens in a friendly Manner.</note> in the event whereof they cannot promiſe to themſelves ſo much Benefit, as they may hope to ſee without it. And the Commiſſioners for Charitable Uſes, having been rightly informed of the Truth of the Company's Condition, did well approve of, and decree ſuch a voluntary ſettlement, as a moſt Righteous Sanction to preſerve their Re<g ref="char:EOLhyphen"/>putation, and ſecure their Poſterity; and therefore adviſed their Creditors by Bond to acquieſce therein; and to apply them<g ref="char:EOLhyphen"/>ſelves to the Wardens and Aſſiſtants, (when they may be in a capacity of paying by Benevolence, or other contingent profits,) for their Debts due by Bond,<note place="margin">So that ſeveral Creditors, who (ill-adviſed) had given them diſturbance, deſiſted, which gave freedom to the Wardens and Committee to pur<g ref="char:EOLhyphen"/>ſue the Building, and to the Mem<g ref="char:EOLhyphen"/>bers attending the Company's Affairs, ſo as the Hall was finiſhed, and, with incredible Celerity, wholly compleated.</note> rather than in vain to diſturb them with Suits, to diſcourage the Members, and thereby, not only to hazard the loſs of their own, but to wrong all others concerned with them, by giving them trouble and diſturbance.</p>
+               <p>And ſeveral of their Creditors, who before (inſtigated by ſome unadviſed Perſons) gave the Company diſturbance, as ſoon as they were ſo informed of their Caſe, better conſidered their own Intereſt, and wholly forbore to proceed any farther; which not only afforded great Freedom and Liberty to the Wardens and Aſſiſtants to attend the Company's Service, but alſo great incou<g ref="char:EOLhyphen"/>ragement to the then Wardens, to begin, and to Sir <hi>Henry Tulſe,</hi>
+                  <pb n="15" facs="tcp:64386:24"/>
+Mr. <hi>Box,</hi> and Mr. <hi>Winch,</hi> (the ſucceeding Wardens,) to carry on that great Work of finiſhing the Hall, in ſo ſhort a time, (as is almoſt incredible to relate,) for reception of Sir <hi>John Moore,</hi> (the ſucceeding Lord Mayor,) at <hi>Michaelmas</hi> following;<note place="margin">Which Work, though it amounted to a greater charge than at firſt propounded, in regard of many additions not thought on, to make it Commodious, yet it anſwers all in the advantage it gives, being a must free Benevolence, which would have been gotten for no other uſe.</note> eſpe<g ref="char:EOLhyphen"/>cially conſidering the ſame was many ways (upon farther con<g ref="char:EOLhyphen"/>ſideration had) enlarged, and made more convenient (than at firſt was intended) with many accommodations (not at firſt thought on) to render it ſo exact, (as indeed it is,) far excelling any Hall that now is (or probably ever was) in <hi>London,</hi> ſo that the whole charge of compleating the ſame, I believe, with as good Husbandry as was poſſible to be managed; yet ſwells to double the Sum which was at firſt propounded to be disburſed, and there<g ref="char:EOLhyphen"/>fore called for farther aſſiſtence of our Members, than at firſt was deſigned, to contribute to the ſame; which Work being ſo com<g ref="char:EOLhyphen"/>pleatly finiſhed, manifeſtly appears to have been the only means left to keep the Company upon a Foundation, which otherwiſe, muſt in a ſhort time, have naturally diſſolved of it ſelf; for that the Apprentices and Freemen, of any eſtate or value, who before wholly declined, have now daily increaſed, as having a proſpect, by what is viſible, of a proſperous carrying on the whole Work anſwerable thereto: Which work now compleated,<note place="margin">And it is a clear augmentation and the beſt branch of the Revenue; and was the only means to remove the re<g ref="char:EOLhyphen"/>proach, incourage Freemen and Ap<g ref="char:EOLhyphen"/>prentices, and Benefactors.</note> is in it ſelf of far greater value, than all the other part of the Com<g ref="char:EOLhyphen"/>pany's Revenue, (over and above the Charities iſſuing there<g ref="char:EOLhyphen"/>out;) and that thoſe ſeveral Summs ſo ſubſcribed, were thus freely given by ſeveral Worthy Members, on purpoſe for this great Work; that it might incourage the whole Members, freely and liberally to contribute towards the reſidue of this Work, and the Debts: To which end I have, to the beſt of my Capa<g ref="char:EOLhyphen"/>city,<note place="margin">That it might Move every good member to contri<g ref="char:EOLhyphen"/>bute towards their Debts and Chari<g ref="char:EOLhyphen"/>ties, this Book is compoſed for their Information and Incouragement.</note> compoſed theſe Sheets for their Information and Encou<g ref="char:EOLhyphen"/>ragement, to follow ſo good Examples, that ſo great and good a Work, wherein ſo many Thouſands are and may be concerned, may be chearfully carried on, and they may all (as Fellow-helpers) have the honour to be recorded amongſt the Gene<g ref="char:EOLhyphen"/>rations to come, The happy Repairers and Reſtorers of the Com<g ref="char:EOLhyphen"/>pany of <hi>Grocers.</hi>
+               </p>
+               <p>THis is a Work wherein thoſe that are moſt Zealous ſhall be moſt Illuſtrious,<note place="margin">The worſt, as well as best if Men, eſteemed it their chief Honour to de<g ref="char:EOLhyphen"/>rive their Pedigree from ſuch a Bene<g ref="char:EOLhyphen"/>factor.</note> and is that alone which will abide the Scrutiny of the moſt Malicious and Cen<g ref="char:EOLhyphen"/>ſorious in all Changes; and is a root from which the moſt Avaricious and Luxurious, as well as the Ambitious, after many Generations, will eſteem it the Chief Honour
+<pb n="16" facs="tcp:64386:25"/>
+of their Family to derive their Pedigree. 'Tis founded in Obedience to a Divine Command, and anchor'd on ſuch infallible Promiſes, as will render the ſincere Donors impregnable, againſt all the Malice and Deſigns of our Common Enemies, who with equal Subtilty and Malice to divide and deſtroy, have of late years, Characterized the two extremes in each Corporation, by the diſtinction of <hi>Whig</hi> and <hi>Tory,</hi> and though with no leſs Malice, they endeavoured to blemiſh <hi>Moderation</hi> with the ſquint-eyed Invective of <hi>Trimming;</hi> yet they could never graſſ their Poiſon on the Sacred Stock of Pious, and well-intended Charity, and Good Works.</p>
+               <p>May the <hi>Author of Peace, and Lover of Concord,</hi> a<g ref="char:EOLhyphen"/>waken every Member of this, and all other Societies, to reflect on what is paſt, and to conſider ſeriouſly the ſad Effects of our late Heats and Animoſities, and the ſufferings of many innocent Objects of Charity occaſioned thereby, ſo as to lay aſide all prejudice towards one another, for the future, and after the Example, and in obedience to the Command of our Bleſſed Redeemer, to forgive and forget in the exerciſe of Charity and Tenderneſs, as Members of one Chriſtian Body, and Brethren of one Society, ſtriving to excell each other in doing good, and promoting the Honour and Happineſs of their Fellowſhip.</p>
+               <p>And that the Members of this Company, may with Harmony of Hearts and Voice, at their Anniverſary Feaſts, ſitting at Meat in our Great Hall, with a calm temper of Mind, and chearful Countenance, read what I have placed in their view, (as a motive thereto,) in a little Table over the Muſick-Room, at the lower end of the Hall, thus Written,
+<q>
+                     <bibl>
+                        <hi>Pſal. 134.</hi>
+                     </bibl>
+                     <l>Blest Day! Might I but live to ſee</l>
+                     <l>The Tribes, like Brethren, all agree,</l>
+                     <l>Like Brethren ſtriving</l>
+                     <l>Who ſhall the</l>
+                     <l>Beſt Members be.</l>
+                  </q>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="17" facs="tcp:64386:25"/>
+            <head>POSTSCRIPT.</head>
+            <p>THE Company of <hi>Grocers,</hi> at the time when the <hi>Quo War<g ref="char:EOLhyphen"/>ranto</hi> was brought againſt them, <hi>Anno</hi> 1684. were (of all Companies in <hi>London</hi>) under the moſt irregular Go<g ref="char:EOLhyphen"/>vernment, as to By-Laws and Ordinances,<note place="margin">The Company, when the <hi>Quo Warranto</hi> was brought, was very defective, as to By-Laws and Or<g ref="char:EOLhyphen"/>dinances, having none made that are extant ſince King <hi>Henry</hi> the Eighth's time; and thoſe (though fitted to the Diſtempers of that time) were most obſolete, and out of uſe now; which might have proved fatal, had not the Company had a <hi>Quietus</hi> by their late Charter; wherein (by aid of our late Maſter, the Earl of <hi>Mulgrave</hi>) are ſeveral Privi<g ref="char:EOLhyphen"/>leges granted this Company, Firſt, a Confirma<g ref="char:EOLhyphen"/>tion of a Charter granted to this Com<g ref="char:EOLhyphen"/>pany by King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the Sixth of the Office of Garbling, in all places in <hi>England, (London</hi> only excepted) Secondly, The Myſtery of <hi>Grocers</hi> is explained, and all <hi>Druggiſts, Confectioners, Tobacconiſts,</hi> and <hi>Tobacco-Cutters</hi> in <hi>London,</hi> and three Miles compaſs are Incorporated herein, and never to be ſeparated from this Company.</note> to warrant their Actions and Proceeding, not having any extant (that I could find) made, and legally confirmed, ſince the time of King <hi>Henry</hi> the Eighth; in whoſe Reign (by ſearch) I found on Record, in the Town-Clerk's Office, many ſuited to the Diſtempers and Nature of the Myſtery of the <hi>Grocery</hi> in thoſe days; but having taken Copies of them (nigh an hundred Sheets,) on peruſal I found them moſt Obſolete and out of Uſe, and very defective to cure, or an<g ref="char:EOLhyphen"/>tidote the Diſeaſes or Corruptions of the preſent Conſtitution of the Company: So that the Renewing, and Confirmation of our Charter, proved an happy opportunity to this Company, not only to have a Relaxation and <hi>Quietus</hi> of all Offences and Miſpriſions that might have proved fatal, through defect of ſuch Sanctions of Government, (which are eſſentially neceſſary to every Corpo<g ref="char:EOLhyphen"/>ration;) but by the aid and favour of the Right Honourable the Earl of <hi>Mulgrave,</hi> then our Maſter, interceding with his late Ma<g ref="char:EOLhyphen"/>jeſty, King <hi>Charles</hi> the Second, of Bleſſed Memory, (who graciouſly condeſcended to own himſelf our Maſter) our Charter was en<g ref="char:EOLhyphen"/>larged with theſe following advantages, <hi>viz.</hi> a Confirmation of a Charter made by King <hi>Henry</hi> the Sixth, granting the Office of Garbling to this Company, in all places in this Kingdom, (the City of <hi>London</hi> only excepted;) which Privilege, by non-uſage for ſome years, was grown almoſt out of knowledge to the Members, until by ſearch for other Charters, I found it on Re<g ref="char:EOLunhyphen"/>cord in the Tower.</p>
+            <p>By declaring the Species of the Myſtery, which before in the former Charters, was expreſſed generally under the Denomi<g ref="char:EOLhyphen"/>nation of <hi>Grocery;</hi> but thereby declared to include all <hi>Druggiſts, Confectioners, Tobacconiſts,</hi> and <hi>Tobacco-Cutters,</hi> as having been branched out of, and bred by <hi>Grocers,</hi> (there being then no Com<g ref="char:EOLhyphen"/>pany of them, or any of them.)</p>
+            <p>Afterwards that Charter, (ſo granted upon and after this <hi>Quo Warranto</hi>) with thoſe Additional Clauſes and Privileges, being vacated, a new Charter (by advice of Sir <hi>Henry Pollixfen,</hi> and
+<pb n="18" facs="tcp:64386:26"/>
+other Learned Counſel) was obtained, (independent of any ſurren<g ref="char:EOLhyphen"/>der) whereby all Perſons uſing theſe Species, as well as <hi>Gro<g ref="char:EOLhyphen"/>cers,</hi> in <hi>London,</hi> or within three Miles of the Liberties of the ſame, are incorporated into this Company, and never to be ſeparated from them, or otherwiſe incorporated; with liberty given to all Perſons uſing any part of the Myſtery, whether Free of any other Company or no, to incorporate themſelves therein; not judging it reaſonable to compel them, (as Men that have born Office in one Pariſh,<note place="margin">
+                  <p>And poſitively en<g ref="char:EOLhyphen"/>joyning all Perſons uſing this Mystery, as <hi>Grocers, Con<g ref="char:EOLhyphen"/>fectioners, Drug<g ref="char:EOLhyphen"/>giſts, Tobacco<g ref="char:EOLhyphen"/>niſts,</hi> or <hi>Tobacco-Cutters,</hi> for ever after to bind their Apprentices to Members of this Company, in order to preſerve a Suc<g ref="char:EOLhyphen"/>ceſſion.</p>
+                  <p>And for an acc m<g ref="char:EOLhyphen"/>medation of ſuch as have no other Friend, there is an Order of the Court of Aſſiſtents, for them to be bound to the Beadle of the <hi>Grocers,</hi> and turned over to their Maſters.</p>
+                  <p>The abuſe of taking Freedoms by Patri<g ref="char:EOLhyphen"/>mony ſet forth, and the Error detected; That it is only to extend to the City, but not to the My<g ref="char:EOLhyphen"/>ſtery, unleſs the Son n of the ſame My<g ref="char:EOLhyphen"/>ſtery, whereof his Father was Free.</p>
+               </note> from thence into any other) to doe the like.</p>
+            <p>But it poſitively enjoyns them all to bind their Apprentices, for the future, to Members of the <hi>Grocers</hi> Company, and to be turned over to their Maſters, to ſerve their Apprenticeſhips, and all (as well thoſe whoſe terms are expired, as) thoſe that are not to take their Freedoms of the <hi>Grocers,</hi> in order to preſerve a Succeſſion in this Company, which otherwiſe muſt in few years have ſunk, for want of Members, to the total ruine and deſtruction of their Charities and Government: And for their Accommodation in that behalf, there is an Order of the Court of Aſſiſtents, for the Beadle of the <hi>Grocers</hi> Company, to be the Medium, (in caſes where they have no other Friend of the Company,) for their Apprentices to be bound to him, and ſo turned over to the Maſter whom he is to ſerve; which Clauſe in the Charter for ſo doing, was at firſt much ſcrupled, by reaſon of the Cuſtom (ſuppoſed to be) in <hi>London,</hi> for a Freeman's Son to have his Freedom by Patrimony (at his own Election) of whatſoever Company his Father was a Member, though the Son had been bound Appren<g ref="char:EOLhyphen"/>tice to a Member of another Myſtery; wherein (upon due Exa<g ref="char:EOLhyphen"/>mination) it was found to be a vulgar Error, and a great Miſtake, by long uſage, grown into a Cuſtom, extending this Cuſtom of Patrimony (which is reſtrained only to a Freedom of the City) to every Company in the City; whereas the Apprentice, though he may have his Freedom (whether he ſerve or no) of the City by his Father's Copy, yet he ought (according to the Original De<g ref="char:EOLhyphen"/>ſign and Intent of every Charter of Incorporation) to take his Freedom of his proper Myſtery, where there is any Corporation of ſuch Myſtery: For that every Myſtery hath been incorporated to no other end, but to have all their Members, and all uſing their Myſtery, well governed by proper Judges, <hi>viz.</hi> by Men beſt knowing and experienced therein; whereas the contrary practice hath introduced a ſpurious Mixture in all Societies, and cauſed all abuſes, poſſibly in the Government of the City, and made Men as lawleſs and ungovernable, as their corrupt and looſe Principles will lead them to.</p>
+            <p>
+               <pb n="19" facs="tcp:64386:26"/>As for Example, a Member of the <hi>Barber-Chirurgions,</hi>
+               <note place="margin">As for Example, that a <hi>Carpenter,</hi> or <hi>Blackſmith,</hi> ought not take his Freedom of the <hi>Bar<g ref="char:EOLhyphen"/>ber Chirurgions,</hi> though his Father was of this Com<g ref="char:EOLhyphen"/>pany a Member.</note> puts his Son Apprentice to a <hi>Carpenter</hi> or <hi>Black-Smith,</hi> or any other Me<g ref="char:EOLhyphen"/>chanick Trade, if the Son (having thus ſerved his Apprentice<g ref="char:EOLhyphen"/>ſhip) out of Pride, Prejudice, or ſiniſter End, ſhall take his Free<g ref="char:EOLhyphen"/>dom by Patrimony of the <hi>Barber-Chirurgions,</hi> (whereof his Father was a Member,) he is thereupon Sworn to obſerve the By-Laws and Ordinances, made for well-governing of the <hi>Barber-Chirur<g ref="char:EOLhyphen"/>gions,</hi> which is to bleed, dreſs Wounds, <hi>&amp;c.</hi> things unknown to him, and impoſſible for him to obſerve, and (which is worſe) makes him never after mindful of his Oath, and frees him from all Obligation to take notice of, or to obſerve thoſe Ordinances made for well-governing the <hi>Carpenters,</hi> which is his proper Myſtery; and ſo he becomes a lawleſs Perſon, and from thence, in that, as in other like Caſes, the End and Deſign of all Corpo<g ref="char:EOLhyphen"/>rations is totally abuſed and defeated, beſides the great wrong done to the Company, which is thus deprived of its Members, which ſhould ſupport the Charge and Grandeur of their Society, of which Injury no Company in <hi>London,</hi> have more cauſe to com<g ref="char:EOLhyphen"/>plain than the <hi>Grocers;</hi> but all other Perſons uſing a Calling, of which there is no Corporation, in being as <hi>Norwich</hi>-Factors Merchants, <hi>&amp;c.</hi> are at liberty to take their Freedom of what Company they have ſerved to, or by Patrimony of their Fathers, or by Redemption of what Company they pleaſe, but having once made their Election, they are obliged to continue therein, unleſs they ſhall be tranſlated thence by order of the Court of Aldermen, and conſent of the Company, into another.</p>
+            <p>And whereas two Cauſes have been aſſigned for diſcouragement of Perſons to take their Freedom of the <hi>Grocers, viz.</hi>
+               <note place="margin">The Cauſes diſcou<g ref="char:EOLhyphen"/>raging Perſons from taking their Free<g ref="char:EOLhyphen"/>dom of the <hi>Gro<g ref="char:EOLhyphen"/>cers, viz.</hi> the great charge and burthen. The reproach of their Hall in Ruines, and under Sequeſtration, are now removed.</note>
+            </p>
+            <p>Firſt, The great Charge they were incident to bear above other Companies.</p>
+            <p>Secondly, The Reproach contracted, by reaſon of their Hall lying in Ruines, and under Sequeſtration, and the great Debts they owe; both which, by the Prudence and Care of our Government, (now bleſſed be God) are removed, and on the contrary, greater Arguments may be uſed to incourage ſuch as left us to return, and others to incorporate themſelves into this Company,<note place="margin">And on the contra<g ref="char:EOLhyphen"/>ry, for their encou<g ref="char:EOLhyphen"/>ragement (beſides the many Privileges in this Company) the charge of every Office is not half ſo much.</note> beſides the many ancient Privileges, which the Members of the <hi>Grocers</hi> Com<g ref="char:EOLhyphen"/>pany are intituled unto: For eaſe of their Members they do not take Fines to excuſe them of Warden or Steward, as heretofore, but in ſpecial caſes, neither do they call them on the Cloathing, (as in moſt other Companies,) but when it is moſt manifeſt they
+<pb n="20" facs="tcp:64386:27"/>
+have been of long continuance, or are of ſufficient Ability, freely to accept it; and ſo it is (uſually) a long time before it comes to a Young Man's turn, to bear any charge or burthen here, and when it doth,<note place="margin">And none are ſuf<g ref="char:EOLhyphen"/>fered to Fine, and if they do, it is not above half ſo much as it was heretofore.</note> the charge of Livery, Steward, and other Offices, are all reduced to a very low and eaſie rate; or if they Fine, or Hold, the charge is not much above half ſo much as it was heretofore; all ſo ſettled by the Court of Aſſiſtents, for eaſe and encourage<g ref="char:EOLhyphen"/>ment of their Members.</p>
+            <p>
+               <note place="margin">There is proviſion made for the due payment of all our Charities, which for many years have been too much neglected and oc<g ref="char:EOLhyphen"/>caſioned great Cla<g ref="char:EOLhyphen"/>mour, and Reproach on the Company.</note>Our Hall having been new built and beautified, there is a moſt certain Ground-rent, by Decree ſettled, to anſwer all our yearly Charities, as well (where we have, as where before we had no Fond) to ſecure the due and conſtant yearly payment of them to their proper Object, to remove all that daily Clamour and Re<g ref="char:EOLhyphen"/>flexion, which for ſeveral years paſt in all places, rendred them reproachful throughout the City and Kingdom.</p>
+            <p>
+               <note place="margin">Our By-Laws and Ordinances are with great Care, and by Learned Counſel, prepared for well Ordering and Governing our Members, and all uſing the Myſtery; and for encourage<g ref="char:EOLhyphen"/>ment of all who ob<g ref="char:EOLhyphen"/>ſerve their Duty; And alſo for pu<g ref="char:EOLhyphen"/>niſhment of all Tranſgreſſors, and ſo to encourage our Benefactors, that this Company be reſtored, as it was <hi>100</hi> years ſince, a Nurſery of Charities, and Seminary of good Citizens.</note>Our By-Laws by moſt learned Counſel are ſettled, and again peruſed, examined, and approved of, as the Law directs, (in the Firſt Year of the Reign of our now Sovereign Lord and Lady King <hi>William</hi> and Queen <hi>Mary,</hi>) by the Right Honourable the Lords Commſſioners for Cuſtody of the Great Seal, and the two Lord Chief Juſtices, Sir <hi>John Holt,</hi> and Sir <hi>Henry Pollixfen,</hi> pur<g ref="char:EOLhyphen"/>ſuant to our late Charter ſo enlarged, whereby our ancient Uſages and Privileges, for well Governing and Ordering our Members and Myſtery are in every kind regulated, augmented, and ſup<g ref="char:EOLhyphen"/>plyed with addition of new, ſuited to all our defects, which will without doubt encourage our Benefactors, liberally to contribute towards diſcharge of the Remainder of our Company's Debts; ſo that there cannot be a better foundation laid, to raiſe and reſtore our Company, as it was 100 years ſince, a Seminary of good Citi<g ref="char:EOLhyphen"/>zens, and Nurſery of the beſt Charities in <hi>London;</hi> and ſo conſe<g ref="char:EOLhyphen"/>quently no Apprentice can well, or probably may hope to be planted in a better Corporation, in order to his future advantage.</p>
+            <p>
+               <note place="margin">And that this Com<g ref="char:EOLhyphen"/>pany may no longer ſuffer, either by not obſerving or tranſ<g ref="char:EOLhyphen"/>greſſing them, the Heads of ſuch as concern all uſing the Myſtery in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Pre<g ref="char:EOLhyphen"/>cincts aforeſaid, will be Printed and Publiſhed, that all may have notice to Conform thereunto.</note>And to the end that all Perſons concerned uſing this Myſtery, either as <hi>Grocer, Druggiſt, Confectioner, Tobacconiſt,</hi> or <hi>Tobacco-Cutter,</hi> in <hi>London,</hi> and within three Miles of the Liberties thereof, may have notice thereof, and give due Obedience and Conformity to what hath been ſo deſigned by the ſaid Charter, By-Laws, and ancient Uſages, and this Company ſuffer no longer by their De<g ref="char:EOLhyphen"/>faults, either in not obſerving, or tranſgreſſing the ſame; the Heads thereof will in ſhort time be Printed and Publiſhed, and left at their ſeveral Dwellings, and places of abode, for their Caution and better Information. And certainly, all this conſidered,
+<pb n="21" facs="tcp:64386:27"/>
+it cannot be doubted but every Member of this Company, will call to mind the great obligation he lies under (if he will mind his Oath, either as a good Chriſtian, or an honeſt Man,) in and by all things according to his Power, on all opportunities, not only to publiſh and make known unto all Perſons concerned, what is ſo required of them, but will alſo move and excite them, by the beſt Arguments and Ways they can, ſpeedily to comply with their duty herein, and ſo avoid the Penalties and Charges they will otherwiſe expoſe themſelves to, in a chargeable way, and be compelled at laſt to yield Obedience and Conformity thereunto.</p>
+         </div>
+         <div type="conclusion">
+            <pb n="22" facs="tcp:64386:28"/>
+            <head>THE CONCLUSION, In a few Motives to <hi>Good Works,</hi> as the very Life and Soul of Religion, and the beſt Evidence of a ſincere Chriſtian.</head>
+            <p>
+               <note place="margin">The Concluſion by Addreſs.</note>HAving thus ſtated the condition of the Company, as it long flouriſhed in Splendor, and gradually through various Pro<g ref="char:EOLhyphen"/>vidences, and the ſad Effects of War and Fire; how it groaned of late under ſo great preſſure in its ſadder Circumſtances: And having ſet before you the happy encouragement already now given, and the Methods propounded again to raiſe and reſtore this Company to its former ſplendor,<note place="margin">Most humbly mo<g ref="char:EOLhyphen"/>ving to the great Work of Charity.</note> I now tu n to the Honourable and Worthy Mem<g ref="char:EOLhyphen"/>bers of whom it conſiſts: And you, my noble and good Maſters, under whom I hold my Station in this place, I moſt humbly pray you (of your wonted Benignity) to bear with my Zeal and Freedom, and the boldneſs I aſſume, moſt humbly to move you, to ſet to your helping hands in this Work, ſo excellent and acceptable to God and every good Man.</p>
+            <p n="1">
+               <note place="margin">
+                  <p>And preſſed with a five-f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld Argument drawn from the nature of this great Duty.</p>
+                  <p>From example of their Pious An<g ref="char:EOLhyphen"/>ceſtors.</p>
+               </note>
+               <hi>1.</hi> By remembring you of thoſe eminent good Charities, for which thoſe Worthy Members who went before you in former times, and are to this day celebrated; and have left us ſuch grounds as (being now built) gives us the proſpect of a great Revenue when the Leaſes are out, which (though far diſtant) are and will be every year (like uſeful Timber) a more growing hope to Poſterity.</p>
+            <p n="2">
+               <note place="margin">Whoſe Foundation they have to build in.</note>
+               <hi>2.</hi> That you would not only think it enough to praiſe them, but be provoked by a generous Emulation, to follow their Example, liberally and bountifully to afford your Aſſiſtence, not only to ſecure, but alſo to increaſe this growing hope, that our Burthen and Reproach being re<g ref="char:EOLhyphen"/>moved, our Benefactors may be encouraged, and this Society ſtill pre<g ref="char:EOLhyphen"/>ſerved
+<pb n="23" facs="tcp:64386:28"/>
+a Seminary of good Merchants, and as a Treaſury of Charity; that ſo the ſucceeding Generations may Bleſs and Honour you, as much as you do thoſe Worthy Members in former times, when your Names ſhall be recorded, as Raiſers and Reſtorers of the Company of <hi>Gro<g ref="char:EOLhyphen"/>cers.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> That what you doe, you would doe ſpeedily; whereby you will draw on others, that need quickening and encouragement, by your Example; and in ſo doing, you will not only have the Comfort of what you doe your ſelves, but be the happy Promoters in others, of what the Company will have cauſe to bleſs God, and give you thanks for.</p>
+            <p n="4">
+               <hi>4.</hi> That you will conſider how great a deliverance you had to eſcape the late dreadful Fire with your lives; and how Gracious God hath been to you ſtill, to entruſt you with his Talents for improvement (as Stewards) in his Work: And that this Company which ſuffered ſo much in that Calamity, hath no other Hands but yours to repair her breaches.</p>
+            <p n="5">
+               <hi>5.</hi> That you can have no ſuch true comfort in the World on a Sick Bed, or in any other Calamity, as to be conſcious of doing good Works of this Nature, when as faithful Stewards of that which is not conſigned to you into Property, but into Truſt, you have (as Good and Faithful Servants) but well diſpoſed of a Parcel of your great Lord's Eſtate, according to his own Will.</p>
+            <p>And for your encouragement, this is a Work moſt acceptable to God, and inviting to every good Man, the Redemption, Relief, and Support of the moſt Ancient and Illuſtrious Corporation in this <hi>Metropolis,</hi> with all her numerous Offspring, the Aged, the Widow, and the Father<g ref="char:EOLhyphen"/>leſs, the Blind, the Lame, and the Impotent, all that God (who is Wiſdom and Goodneſs) himſelf commends (after his own example) to your Charity, and as capable of Alms, with moſt extenſive Bleſſings,<note place="margin">Encouraging it.</note> Promiſes of Rewards, and to be neglected under the moſt ſevere Threat<g ref="char:EOLhyphen"/>nings and Puniſhments.</p>
+            <p>And farther, this your kindneſs will not periſh as a Meals-Meat,<note place="margin">As an Object moſt acceptable to God, and inviting to every Good Man.</note> or a draught of cold Water (though that has encouragement, a Man would think, that will give credit to our Saviour himſelf,) but this your Cha<g ref="char:EOLhyphen"/>rity will be as a laſting Seed, laid on the pureſt Foundation of thoſe Holy and Good Men, who were our Pious Founders, and whoſe Names, after ſo many hundred years, ſmell ſweet and bloſſom in the duſt; and are now Bleſſed with God, receiving the Recompenſe of their Reward, whilſt their Works follow them, and praiſe them in the Gates; ſo that what you ſhall here beſtow, will be to open and feed thoſe Fountains, as their laſting and refreſhing Comforts and Relief.</p>
+            <p>For though Good Works in themſelves (as flowing back to the Foun<g ref="char:EOLhyphen"/>tain from whence they ſpring) can be no way meritorious; yet they have
+<pb n="24" facs="tcp:64386:29"/>
+been always ſo acceptable to God,<note place="margin">And not only as the best means to ſecure what they ſhall leave to their Chil<g ref="char:EOLhyphen"/>dren and Poſterity, (which without this uſually is ſooner by them ſpent, than got by their Pa<g ref="char:EOLhyphen"/>rents;) but will for ever remain.</note> that we find in every Age, Eſtates and Honour continue longeſt in the Name and Family of ſuch as have been moſt diffuſive in Works of this Nature, that if it were modeſt to render a reaſon, why ſo many great Eſtates are ſooner waſted by a looſe Heir, than gotten by his frugal Parent, it may be well preſumed, it is becauſe ſo little of it was beſtowed to ſuch uſes, when Men return ſo little to God, to whom they owe all they have; and moſt aſſuredly no Article in your Account at the great Audit, will be ſooner allowed to<note n="*" place="margin">
+                  <p>This to be under<g ref="char:EOLhyphen"/>ſtood in the Apoſtle's ſence, not otherwiſe.</p>
+               </note> cover many other Errors, than what is thus diſpoſed. And now as Spice is a great Ingredient in this Myſtery, and is a part of your Arms, ſo I pray con<g ref="char:EOLhyphen"/>ſider how Alms in Scripture are called, <hi>an Odor of a ſweet-ſmelling Savour;</hi>
+               <note place="margin">
+                  <l>A ſweet Perfume in the Noſtrils of Men.</l>
+                  <l>And an Odor of a ſweet-ſmelling Sa<g ref="char:EOLhyphen"/>vour to God.</l>
+               </note> and it is theſe Perfumes that will prove acceptable to God, and have a good Savour amongſt Men. So I conclude, with my Prayers to Almighty God, to incline all your Hearts, according to your ſeveral Degrees and Qualities in this great Work, to acquit your ſelves as good Men, and as good Citizens and <hi>Grocers;</hi> and that I may be happy in diſcharge of my Duty, which alone moved me to make this my humble Addreſs to you all, and ſhall be my endeavours to perform.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64386:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
